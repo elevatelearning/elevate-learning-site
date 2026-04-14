@@ -1,0 +1,48 @@
+.not-found {
+  color: $evl-white;
+  height: 100%;
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1.1rem;
+  }
+
+  a {
+    border-bottom: 1px solid transparent;
+    box-shadow: none;
+    color: $evl-turquoise;
+    text-decoration: none;
+
+    &:active,
+    &:hover {
+      color: $evl-pink;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    h1 {
+      font-size: 2.4rem;
+    }
+
+    p {
+      font-size: 1.2rem;
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    h1 {
+      font-size: 2.8rem;
+    }
+
+    p {
+      font-size: 1.3rem;
+    }
+  }
+}
+
+#not-found {
+  height: 100vh;
+}

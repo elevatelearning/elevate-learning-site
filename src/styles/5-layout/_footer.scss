@@ -1,0 +1,30 @@
+.footer-wrapper {
+  background-color: $evl-blue;
+  clear: both;
+  position: relative;
+
+  p {
+    color: $evl-white !important;
+    font-size: 0.8rem;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  @include media-breakpoint-up(sm) {
+    p {
+      font-size: 1rem;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    p {
+      font-size: 1.1rem;
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    p {
+      font-size: 1.2rem;
+    }
+  }
+}

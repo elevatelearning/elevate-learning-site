@@ -1,0 +1,102 @@
+.contact-wrapper {
+  background-color: $evl-blue;
+
+  h1 {
+    color: $evl-white;
+    font-family: $font-family-sans-serif;
+    font-size: 1.6rem;
+    font-weight: $font-weight-normal;
+    text-transform: uppercase;
+  }
+
+  h3 {
+    color: $evl-white;
+    font-size: 1.2rem;
+  }
+
+  p {
+    color: $evl-turquoise;
+    font-size: 1rem;
+  }
+
+  label {
+    color: $evl-white;
+    font-size: 1rem;
+  }
+
+  .form-disclaimer {
+    color: #adb5bd;
+  }
+
+  .form-feedback {
+    color: $evl-pink;
+    font-size: 0.875rem;
+  }
+
+  blockquote {
+    border: none !important;
+    font-style: normal !important;
+  }
+
+  span {
+    margin-left: 5px;
+  }
+
+  a {
+    border-bottom: 1px solid transparent;
+    box-shadow: none;
+    color: $evl-white;
+    font-size: 1.2rem;
+    margin-left: 5px;
+    text-decoration: none;
+
+    &:active,
+    &:hover {
+      color: $evl-pink;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    h1 {
+      font-size: 1.8rem;
+    }
+
+    h3 {
+      font-size: 1.4rem;
+    }
+
+    p {
+      font-size: 1.1rem;
+    }
+
+    label {
+      font-size: 1rem;
+    }
+
+    a {
+      font-size: 1.4rem;
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    h1 {
+      font-size: 2rem;
+    }
+
+    h3 {
+      font-size: 1.6rem;
+    }
+
+    p {
+      font-size: 1.2rem;
+    }
+
+    label {
+      font-size: 1.1rem;
+    }
+
+    a {
+      font-size: 1.5rem;
+    }
+  }
+}

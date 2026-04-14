@@ -1,0 +1,95 @@
+.related-wrapper {
+  .related-grid {
+    max-width: 1040px;
+    margin: 0 auto;
+  }
+
+  .related-card {
+    background-color: rgba(25, 52, 70, 0.7);
+    border-radius: 0;
+    overflow: hidden;
+
+    p {
+      color: $evl-white;
+      font-size: 0.95rem;
+      margin-bottom: 0;
+    }
+
+    a {
+      border-bottom: 1px solid transparent;
+      box-shadow: none;
+      color: $evl-turquoise;
+      text-decoration: none;
+
+      &:active,
+      &:hover {
+        color: $evl-pink;
+      }
+    }
+
+    small {
+      color: $evl-turquoise;
+      font-weight: 600;
+    }
+
+    .card-img {
+      border-radius: 0;
+      height: 180px;
+      margin: 0;
+      object-fit: cover;
+      width: 100%;
+    }
+
+    .card-title {
+      color: $evl-turquoise;
+      font-family: $font-family-sans-serif;
+      font-size: 1.1rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .card-body {
+      padding: 1.25rem 1.25rem 0.75rem;
+    }
+
+    .card-text {
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 3;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      background: transparent;
+      border-top: 0;
+      padding: 0 1.25rem 1.25rem;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    .related-card {
+      .card-img {
+        height: 200px;
+      }
+
+      p {
+        font-size: 1rem;
+      }
+
+      .card-title {
+        font-size: 1.2rem;
+      }
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    .related-card {
+      p {
+        font-size: 1.05rem;
+      }
+
+      .card-title {
+        font-size: 1.25rem;
+      }
+    }
+  }
+}

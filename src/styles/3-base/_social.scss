@@ -1,0 +1,29 @@
+.post-meta-share-icons {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.post-meta-share-icons a {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  transition: all 0.2s ease-out;
+}
+
+.post-meta-share-icons svg {
+  color: var(--theme-ui-colors-secondary, $evl-white);
+}
+
+.post-meta-share-icons a:hover {
+  transform: scale(1.15);
+}
+
+.post-meta-share-icons a:focus {
+  outline: 0;
+}
+
+.post-meta-share-icons a:last-child {
+  margin-right: 0;
+}

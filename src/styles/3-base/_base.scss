@@ -1,0 +1,67 @@
+/* Base Styles -------------------- */
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+:focus {
+  outline: none;
+}
+::-moz-focus-inner {
+  border: 0;
+}
+
+body:after {
+  background: url(../images/elevate-bg-one.jpg) center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  content: "";
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: -1;
+
+  @media screen and (max-width: 768px) {
+    background-attachment: scroll;
+  }
+}
+
+.btn {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  text-transform: uppercase;
+}
+
+.btn-xl {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 250px;
+}
+
+.btn-xxl {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.btn-outline-primary {
+  background-color: transparent !important;
+  background-image: none !important;
+  border-color: $evl-pink !important;
+  color: $evl-white !important;
+
+  &:active,
+  &:hover {
+    background-color: $evl-turquoise !important;
+    border-color: $evl-turquoise !important;
+    color: $evl-white !important;
+  }
+}

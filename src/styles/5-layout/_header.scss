@@ -1,0 +1,70 @@
+.navbar {
+  background-color: rgba(25, 52, 70, 0.9);
+
+  .custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(207,94,116, 0.9)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+
+  .custom-toggler.navbar-toggler {
+    border-color: rgb(207, 94, 116);
+  }
+
+  span.navbar-brand {
+    a {
+      box-shadow: none;
+    }
+  }
+
+  ul.navbar-nav {
+    a {
+      border-bottom: 1px solid transparent;
+      box-shadow: none;
+      color: $evl-white;
+      font-size: 1rem;
+      text-decoration: none;
+      text-transform: uppercase;
+
+      &:active,
+      &:hover {
+        color: $evl-white;
+        border-bottom: 1px solid $evl-pink;
+        text-decoration: none;
+      }
+    }
+
+    li.current {
+      a {
+        border-bottom: 1px solid $evl-pink;
+      }
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    .custom-toggler.navbar-toggler {
+      margin-right: 1.25rem;
+    }
+
+    .navbar-collapse {
+      padding-right: 1.25rem;
+      padding-left: 1.25rem;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    ul.navbar-nav {
+      a {
+        font-size: 1.2rem;
+      }
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    background-color: transparent;
+
+    ul.navbar-nav {
+      a {
+        font-size: 1.4rem;
+      }
+    }
+  }
+}

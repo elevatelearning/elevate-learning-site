@@ -1,0 +1,41 @@
+$evl-white: #fff !default;
+$evl-blue: #193446 !default;
+$evl-pink: #cf5e74 !default;
+$evl-turquoise: #a9d8dd !default;
+
+$evl-grey: #ADADAD;
+$evl-grey-800: #C9C9C9;
+$evl-grey-600: #DADADA;
+$evl-grey-400: #E9E9E9;
+$evl-grey-200: #F4F4F4;
+$evl-grey-100: #EEEEEE;
+
+$evl-dark-grey: #343434;
+$evl-dark-grey-800: #413e47;
+$evl-dark-grey-600: #68656c;
+
+$font-family-sans-serif: 'Montserrat', sans-serif;
+$font-family-base: $font-family-sans-serif !default;
+
+$font-weight-light: 300 !default;
+$font-weight-normal: 400 !default;
+$font-weight-heavy: 600 !default;
+$font-weight-base: $font-weight-light !default;
+
+$headings-font-family: 'Josefin Sans', sans-serif !default;
+
+$spacer: 1rem !default;
+$spacers: () !default;
+$spacers: map-merge((
+    0: 0,
+    1: ($spacer * .25),
+    2: ($spacer * .5),
+    3: $spacer,
+    4: ($spacer * 1.5),
+    5: ($spacer * 3),
+    6: ($spacer * 5),
+    7: ($spacer * 7),
+    8: ($spacer * 9),
+    9: ($spacer * 11),
+    10: ($spacer * 13)
+), $spacers);
