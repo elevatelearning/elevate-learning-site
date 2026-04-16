@@ -1,0 +1,77 @@
+backend:
+  name: git-gateway
+  branch: main
+  commit_messages:
+    create: "Create {{collection}} “{{slug}}”"
+    update: "Update {{collection}} “{{slug}}”"
+    delete: "Delete {{collection}} “{{slug}}”"
+    uploadMedia: "[skip ci] Upload “{{path}}”"
+    deleteMedia: "[skip ci] Delete “{{path}}”"
+
+display_url: https://www.elevatelearning.org
+local_backend: true
+logo_url: https://www.elevatelearning.org/images/elevate-learning.jpg
+media_folder: static/images
+public_folder: /images
+publish_mode: editorial_workflow
+site_url: https://www.elevatelearning.org
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: elevatelearning
+    api_key: 419558516378248
+
+collections:
+  - name: "articles"
+    label: "Articles"
+    label_singular: "Article"
+    folder: "content/insights"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    nested:
+      depth: 100
+      summary: "{{title}}"
+    fields:
+      - label: "Featured Image"
+        name: "imageUrl"
+        widget: "image"
+      - label: "Featured Article"
+        name: "featured"
+        widget: "boolean"
+        default: false
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "DD MMMM YYYY"
+        format: "YYYY-MM-DD"
+        timeFormat: false
+      - label: "Description"
+        name: "description"
+        widget: "text"
+        required: false
+      - label: "Author"
+        name: "author"
+        widget: "text"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Infographic Preview"
+        name: "infographicPreviewUrl"
+        widget: "image"
+        required: false
+      - label: "Infographic Poster"
+        name: "infographicUrl"
+        widget: "file"
+        required: false
+    meta:
+      path:
+        widget: "string"
+        label: "Path"
+        index_file: "index"
+        pattern:
+          - "^(?!/terms/).*$"
+          - "Must not start with terms"
