@@ -23,9 +23,9 @@ const Insights = () => {
 
   return (
     <Layout>
-      <Container fluid className="insights-wrapper pb-5" id="insights">
+      <Container className="insights-wrapper pb-5" id="insights">
         <Row className="justify-content-center">
-          <Col>
+          <Col lg={10} xl={8}>
             <div className="jumbotron text-center py-4 py-md-5 py-lg-7 my-1">
               <h1>Featured Insights</h1>
               <p className="lead text-center mt-3">
@@ -38,9 +38,9 @@ const Insights = () => {
                 description="Our latest thinking on the issues that matter most in digital learning experiences."
               />
             </div>
-            <Articles />
           </Col>
         </Row>
+        <Articles />
       </Container>
     </Layout>
   )
