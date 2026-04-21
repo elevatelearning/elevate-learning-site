@@ -14,6 +14,23 @@ const getPathname = () =>
   typeof window !== "undefined"
     ? window.location.pathname
     : globalHistory.location?.pathname || "/"
+const getCurrentSectionIndex = elements => {
+  if (typeof window === "undefined" || elements.length === 0) return -1
+
+  const anchor = window.innerHeight * 0.35
+  const activeElement =
+    elements.find(el => {
+      const { top, bottom } = el.getBoundingClientRect()
+      return top <= anchor && bottom > anchor
+    }) ||
+    elements
+      .slice()
+      .reverse()
+      .find(el => el.getBoundingClientRect().top <= anchor) ||
+    elements[0]
+
+  return activeElement ? SECTION_IDS.indexOf(activeElement.id) : -1
+}
 
 const Header = () => {
   const [pathname, setPathname] = useState(getPathname)
@@ -41,20 +58,30 @@ const Header = () => {
     )
     if (elements.length === 0) return
 
-    const observer = new IntersectionObserver(
-      entries => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            const i = SECTION_IDS.indexOf(entry.target.id)
-            if (i !== -1) setCurrentIndex(i)
-          }
-        })
-      },
-      { rootMargin: "-300px 0px -50% 0px", threshold: 0 }
-    )
+    let frameId = null
+    const updateCurrentSection = () => {
+      const i = getCurrentSectionIndex(elements)
+      if (i !== -1) {
+        setCurrentIndex(current => (current === i ? current : i))
+      }
+    }
+    const handleScroll = () => {
+      if (frameId !== null) return
+      frameId = window.requestAnimationFrame(() => {
+        frameId = null
+        updateCurrentSection()
+      })
+    }
 
-    elements.forEach(el => observer.observe(el))
-    return () => observer.disconnect()
+    updateCurrentSection()
+    window.addEventListener("scroll", handleScroll, { passive: true })
+    window.addEventListener("resize", handleScroll)
+
+    return () => {
+      if (frameId !== null) window.cancelAnimationFrame(frameId)
+      window.removeEventListener("scroll", handleScroll)
+      window.removeEventListener("resize", handleScroll)
+    }
   }, [isInsightsRoute])
 
   const itemClass = i => `mx-lg-3${i === currentIndex ? " current" : ""}`
