@@ -107,8 +107,10 @@
 
   .card-deck {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     gap: 1.5rem;
+    grid-template-columns: 1fr;
+    margin: 0 auto;
+    max-width: 1320px;
 
     .card {
       align-items: center;
@@ -174,6 +176,18 @@
           font-size: 1.3rem;
         }
       }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    .card-deck {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    .card-deck {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
     }
   }
 }
