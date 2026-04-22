@@ -6,7 +6,7 @@ date: 2023-03-24
 author: Kira Koopman
 ---
 
-### "﻿Marketing is not only about being found, it's about being chosen. The same applies to learning design: it's not about making content available, but making it irresistible."
+### "Marketing is not only about being found, it's about being chosen. The same applies to learning design: it's not about making content available, but making it irresistible."
 
 ### \- Andrew Davis
 
@@ -20,7 +20,7 @@ Over the past few years, there has been a significant shift in LXD towards a use
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679555657/site-articles/applying-marketing-principles-to-digital-learning-design/Group_414_1_p5oax5.png" alt="Icon illustrating the concept of defining your target audience" title="Principle 1: Target Your Target Audience" class="img-left"/>
 
-# P﻿rinciple 1: Define Your Target Audience
+# Principle 1: Define Your Target Audience
 
 Learning, like marketing, is about delivering a specific message to a specific group of people. So identifying who your **target audience** is when designing learning is key to ensuring it meets your learners’ unique needs.
 
@@ -32,13 +32,13 @@ While developing these personas, you’ll need to ask yourself various questions
 
 <center><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554346/site-articles/applying-marketing-principles-to-digital-learning-design/Persona_Examples_wl7xto.png" alt="Graphic illustrating examples of learner personas" title="Learning Persona Examples" class="img-center"/></center>
 
-_<center><p text-color: white>I﻿mage 1: Examples of personas created by Elevate Learning, along with our Learning Experience Design Essentials course learner persona template.</p></center>_
+_<center><p text-color: white>Image 1: Examples of personas created by Elevate Learning, along with our Learning Experience Design Essentials course learner persona template.</p></center>_
 
-For more on the what, how and why of learning persona, check out our carousel [here](https://www.linkedin.com/feed/update/urn:li:activity:6991396564069953536).
+For more on the what, how and why of learning persona, check out our [learner persona carousel on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6991396564069953536).
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556013/site-articles/applying-marketing-principles-to-digital-learning-design/Group_422_ws1i3d.png" alt="Icon illustrating the concept of creating a strong brand positioning" title="Principle 2: Create Strong Brand Positioning" class="img-left"/>
 
-# P﻿rinciple 2: Create Strong Brand Positioning
+# Principle 2: Create Strong Brand Positioning
 
 Your learning strategy, course, or platform, like marketing, should have a **clear brand**. By having a very clear sense of your brand and purpose, whether that’s an overarching visual brand and style or tone, or a consistent reference to your purpose, you hold the power to position yourself and your learning product as something your learners or employees not only want, but need.
 
@@ -52,13 +52,13 @@ When you meet learners where they are and communicate with them in a way that is
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556048/site-articles/applying-marketing-principles-to-digital-learning-design/Group_423_eaclu8.png" alt="Icon illustrating the concept of building social proof" title="Principle 3: Build Social Proof" class="img-left"/>
 
-# P﻿rinciple 3: Build Social Proof
+# Principle 3: Build Social Proof
 
 The success of many a digital marketing strategy has relied on its ability to connect — customers to brands, to each other, to a perception, or to a community or a celebrity. When you’re buying a new product, you might look at customer ratings or testimonials before making a decision to take action. Or, you might look at their online presence, perhaps scroll through their social media feed, or be influenced by a comment or post by someone you know or respect who has had a positive experience with the brand, service or product.
 
 The way that social networking platforms have enabled brands to reach their target audiences more directly and purposefully is not dissimilar to the reasons why classroom-based learning continues to be popular as a mode of delivery in learning — because learning (and marketing) has always been a **social experience** — taking place in classrooms and lecture theatres, with instructors, tutors, teachers and peers providing expert guidance, social proof, or a sense of belonging and community.
 
-Online learning can sound like a lonely and daunting experience, but it doesn’t have to be. Take a look at a video from our [Learning Experience Design Essentials course ](https://lxd.elevatelearning.org)below which outlines some tips for incorporating social learning into your online learning experiences.
+Online learning can sound like a lonely and daunting experience, but it doesn’t have to be. Take a look at a video from our [Learning Experience Design Essentials course](https://lxd.elevatelearning.org) below which outlines some tips for incorporating social learning into your online learning experiences.
 
 <center><iframe width="650" height="405" src="https://www.youtube.com/embed/LESLPw3hwdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
@@ -72,7 +72,7 @@ These social experiences are a key motivator in the traditional learning space a
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556013/site-articles/applying-marketing-principles-to-digital-learning-design/Group_420_ewu1id.png" alt="Icon representing the concept of setting measurable goals" title="Principle 4: Set Measurable Goals" class="img-left"/>
 
-# P﻿rinciple 4: Set Measurable Goals
+# Principle 4: Set Measurable Goals
 
 As the old saying goes, what’s measured is managed, and like marketing, learning also requires **tangible metrics**. When marketers set out to develop a new campaign or launch a new product or service, they start with setting specific, measurable goals. Whether these goals relate to sales numbers, hits on a website, email campaign opens and clicks, or call-to-action conversions, there are always specific success metrics and clearly defined tasks and activities they are looking for customers to do.
 
@@ -80,7 +80,7 @@ Similarly with learning experience design, setting high-level goals such as over
 
 <center><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554405/site-articles/applying-marketing-principles-to-digital-learning-design/M3_L1_01_Elevate_s_four_phase_approach_ube5rb.png" alt="Graphic illustrating a four-phase approach to developing a learning strategy, including the following steps: strategy, competencies, delivery and measurement." title="A Four-Phase Approach to Developing a Learning Strategy" class="img-center"/></center>
 
-_<center><p text-color: white>I﻿mage 2: Elevate's four-phase approach to developing a learning strategy. To learn more, [enrol in our Learning Experience Design Essentials course](https://lxd.elevatelearning.org/).</p></center>_
+_<center><p text-color: white>Image 2: Elevate's four-phase approach to developing a learning strategy. To learn more, [enrol in our Learning Experience Design Essentials course](https://lxd.elevatelearning.org/).</p></center>_
 
 For example, one way to measure the success of your learning experience might be through course completions. So, you’ll set a goal for x number of completions compared to enrolments and then assess the total number of completions within a certain timeframe.
 
@@ -92,7 +92,7 @@ Taking this iterative, goal-based approach allows you to adapt your content to c
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556013/site-articles/applying-marketing-principles-to-digital-learning-design/Group_421_qije3p.png" alt="Icon representing the concept of making your content sticku" title="Principle 5: Make Your Content Stick" class="img-left"/>
 
-# P﻿rinciple 5: Make Your Content Stick
+# Principle 5: Make Your Content Stick
 
 Learning should also be **sticky**. A good way to do this is to borrow another tool from marketing — **priming**. Learning Transfer expert, [Fergal Connolly](https://www.td.org/insights/every-day-is-prime-day), says that priming is a phenomenon in which exposure to one stimulus affects the response that one has to a later stimulus. For example, smelling freshly baked bread before walking past a bakery or seeing a shopping basket on an e-commerce website. In other words, when we’re subconsciously exposed to a certain idea, product, perception or visual when the opportunity arises to fully engage with that experience, we are already comfortable with the concept.
 
@@ -104,17 +104,17 @@ Providing an overview of the learning objectives before a learner starts a cours
 
 <center><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554339/site-articles/applying-marketing-principles-to-digital-learning-design/Group_413_mujnob.png" alt="Graphic illustrating a lesson example where a learner has to click a continue button after reaching the end of a chapter." title="In-lesson Continue Button" class="img-center"/></center>
 
-_<center><p text-color: white>I﻿mage 3: An example of a learner being primed for what's coming next after reaching the end of a chapter.</p></center>_
+_<center><p text-color: white>Image 3: An example of a learner being primed for what's coming next after reaching the end of a chapter.</p></center>_
 
 Similarly, having learners practise a scenario-based activity before completing a summative assessment with similar types of questions helps them to also subconsciously put their new knowledge into practice without the finality or pressure of a final assessment weighing on the experience. Connolly adds that priming can also reduce stress and anxiety by introducing learners to the topics that will be covered, and what will be expected of them, thereby contributing to more effective and successful learning outcomes.
 
-# F﻿inal Thoughts: The Need to be Multidisciplinary
+# Final Thoughts: The Need to be Multidisciplinary
 
 Designing effective digital learning experiences requires a multidisciplinary approach that combines expertise in pedagogy, technology, psychology, user experience design, data analytics, and marketing (as we’ve seen in this article). Marketing, much like learning design, is all about human behaviour. Being truly learner-centered has nothing to do with us as learning designers, and everything to do with the learner, and if you maintain this mindset throughout the learning experience design process, then you will be able to intuitively create user-centred learning, and consequently, be successful in meeting your learning goals.
 
 By taking a multidisciplinary approach to learning design, L&D experts can create experiences that are engaging, effective, and impactful. Ultimately, the goal of digital learning design is to change human behaviour and encourage learners to take action, and by utilising a variety of disciplines, we can better achieve this goal.
 
-## R﻿eferences
+## References
 
 Dalpes, K. (2023) _5 reasons why the customer is always right in 2023, Zendesk_. Available at: <https://www.zendesk.com/blog/the-customer-is-always-right/> (Accessed: March 13, 2023).
 

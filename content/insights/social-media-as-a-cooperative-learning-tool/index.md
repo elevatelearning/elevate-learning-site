@@ -47,7 +47,7 @@ While the purpose of this article is not to describe the five levels of the orig
 
 </br>
 
-#### Role in eLearning
+#### Key Point 1 Role in eLearning
 
 [Each social media platform](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8727533) is unique, has a specific purpose, and is effective in specific contexts and settings. So, it is vital to consider the characteristics or built-in features of various social media platforms in order to enhance the desired teaching approach.
 
@@ -61,7 +61,7 @@ An important part of the eLearning process is [identifying the correct learning 
 
 These are all crucial factors to consider when choosing tools and platforms that will be integrated into the learning experience. Your goal is to ensure that the learner succeeds, and the chosen social media platform should not hinder this success; rather it should enhance their experience and performance.
 
-#### Social Media Tactic
+#### Key Point 1 Social Media Tactic
 
 Let’s consider Instagram, a social media platform where information is shared by uploading videos and photos, as an example of a cooperative learning tool:
 
@@ -77,15 +77,15 @@ It is vital that learning designers, instructors, and educators understand how t
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109415/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_2_1_ttchsv.png" alt="Identify and mitigate valid learner concerns" title="Identify and mitigate valid learner concerns" class=""/>
 
-#### </br>
+</br>
 
-#### Role in eLearning
+#### Key Point 2 Role in eLearning
 
 Anxiety surrounding concerns of privacy, security and ambiguity should be used to analyse the use of a particular social media platform as a tool for cooperative learning.
 
 Privacy and ambiguity are two of the greatest challenges when it comes to implementing social media as a learning tool. Institutions must validate these concerns by implementing measures to mitigate against these concerns for their learners.
 
-#### Social Media Tactics
+#### Key Point 2 Social Media Tactics
 
 Addressing privacy requires a focus on confidentiality, online behaviour, anonymity as well as control and monitoring. Confidentiality could be minimised by utilising the personal privacy options that are available on many social media platforms. In most cases, instructors are given the option to add a private page or profile that when used can only be accessed by specific learners.
 
@@ -97,15 +97,15 @@ Furthermore, learners may experience workload concerns associated with multitask
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109416/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_3_1_x5lqd1.png" alt="Use social media as a learner motivation tool" title="Use social media as a learner motivation tool" class=""/>
 
-#### </br>
+</br>
 
-#### Role in eLearning
+#### Key Point 3 Role in eLearning
 
 For the implementation of social media as a cooperative learning tool to be a success, incentives need to be provided, and a reward system can influence the user’s level of engagement and participation in learning.
 
 Social media should be viewed as an interactive online learning resource between learners as well as instructors. The content posted, shared, or created should be managed according to the learning material and time set for each unit. Instructors, therefore, guide activities and provide learning support where required. Prepare a list of social media activities incorporating their teaching methods but keeping in mind what the social media platform offers in terms of features.
 
-#### Social Media Tactics
+#### Key Point 3 Social Media Tactics
 
 Encouraging learner participation and engagement through the use of the comment feature available on many social media platforms, can help foster a greater sense of community. Despite our desire to be a part of a community, our learners are often not properly incentivised to participate in online discussions. Let’s briefly consider YouTube as a discussion tool.
 
@@ -113,13 +113,13 @@ Not only can YouTube be utilised as a powerful tool for [enhancing content maste
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109417/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_4_1_tyourg.png" alt="Evaluate learner engagement and interest" title="Evaluate learner engagement and interest" class=""/>
 
-#### </br>
+</br>
 
-#### Role in eLearning
+#### Key Point 4 Role in eLearning
 
 While an initial analysis would have taken place to identify which social media platform is fit-for-purpose for your needs, gathering learner data about their experiences and engagement with the platform will prove valuable. Evaluate the impact of the learning process by [seeking constructive feedback and reflections from learners](https://dspace5.zcu.cz/bitstream/11025/34525/1/Zotos.pdf) throughout the process or when the course is completed. If engagement and interest levels are low, then perhaps the initial fit-for-purpose assessment missed the mark. Find out from your learners what qualities they deem as necessary to increase engagement and interest in this learning tactic.
 
-#### Social Media Tactics
+#### Key Point 4 Social Media Tactics
 
 Since our learners [typically are already overburdened](https://www.gse.harvard.edu/news/ed/21/05/my-get-and-go-got-and-went) with work and life demands, requesting that they complete a lengthy survey, may not produce the results necessary to proper tool evaluation. Crafting strategic survey questions can be powerful for gathering the required learner feedback on teaching methodologies and their engagement with particular tools and platforms.
 
@@ -135,12 +135,12 @@ There is an immeasurable amount of information and knowledge desired to be share
 
 Alenazy, W. M., Al-Rahmi, W. M., & Khan, M. S. (2019). Validation of TAM model on social media use for collaborative learning to enhance collaborative authoring. *Ieee Acces*s, 7, 71550-71562.
 
-Arshavskiy, M. (2021). _Social Media For eLearning. eLearning Industry_. Retrieved 6 May 2022, from <https://elearningindustry.com/social-media-for-elearning>.
+Arshavskiy, M. (2021). *Social Media For eLearning. eLearning Industry*. Retrieved 6 May 2022, from <https://elearningindustry.com/social-media-for-elearning>.
 
 Average Time Spent Daily on Social Media (Latest 2022 Data), (2022). BroadbandSearch. Retrieved from <https://www.broadbandsearch.net/blog/average-daily-time-on-social-media#post-navigation-1>.
 
-Bauld, A. (2021). _My Get Up and Go Got Up and Went_. Harvard Ed. Magazine. Retrieved 6 May 2022, from <https://www.gse.harvard.edu/news/ed/21/05/my-get-and-go-got-and-went>.
+Bauld, A. (2021). *My Get Up and Go Got Up and Went*. Harvard Ed. Magazine. Retrieved 6 May 2022, from <https://www.gse.harvard.edu/news/ed/21/05/my-get-and-go-got-and-went>.
 
-Buckler, L. _Teach, Learn, Share: the Role of Social Media in eLearning_. Shiftelearning.com. Retrieved 6 May 2022, from <https://www.shiftelearning.com/blog/teach-learn-share-the-role-of-social-media-in-elearning.>
+Buckler, L. *Teach, Learn, Share: the Role of Social Media in eLearning*. Shiftelearning.com. Retrieved 6 May 2022, from <https://www.shiftelearning.com/blog/teach-learn-share-the-role-of-social-media-in-elearning.>
 
-Hamadi, M., El-Den, J., Azam, S., & Sriratanaviriyakul, N. (2021). Integrating social media as cooperative learning tool in higher education classrooms: An empirical study. _Journal of King Saud University-Computer and Information Sciences._
+Hamadi, M., El-Den, J., Azam, S., & Sriratanaviriyakul, N. (2021). Integrating social media as cooperative learning tool in higher education classrooms: An empirical study. *Journal of King Saud University-Computer and Information Sciences.*

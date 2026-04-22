@@ -8,7 +8,7 @@ description: Make your learning experience accessible to everyone, particularly
 author: Lara Hilton
 ---
 
-## "﻿We need to bring learning to people instead of people to learning." — Elliot Masie
+## "We need to bring learning to people instead of people to learning." — Elliot Masie
 
 When it comes to digital learning, inclusivity, agency, and personalisation are becoming increasingly important aspects of any learning experience. Digital consumers have come to expect seamless, integrated, user-centered experiences when they’re online, regardless of the platform or purpose for being online, and it’s become increasingly harder to ignore the overlap of this expectation into the digital learning realm.
 
@@ -18,7 +18,7 @@ Generally speaking, the best way to personalise content in an online space, wher
 
 Fundamentally, learning designers should want learners to feel empowered by having the agency to choose their learning journey. To achieve a successful personalised learning experience, learning designers need to consider the following essential element: accessibility.
 
-# A﻿ccessible Learning Enables Reach and Access
+# Accessible Learning Enables Reach and Access
 
 At this point, you might ask yourself, ‘doesn’t online content automatically mean that it is more accessible?’ Unfortunately, not necessarily. No matter how engaging your online experience is, it won't achieve its objectives if it’s inaccessible to some participants.
 
@@ -43,7 +43,7 @@ These two examples might be the first that comes to mind when considering access
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418626/site-articles/what-defines-accessible-digital-learning/Bnw_graph-05_jnphtu.jpg" alt="Scatter plot graph instructing a learner to circle the incorrect data point in red" title="Colour Blindness" class="img-center"/>
 
-# C﻿reating a Truly Accessible Learning Experience
+# Creating a Truly Accessible Learning Experience
 
 Creating a learning experience that is genuinely accessible is not as easy as it might initially seem. So, you may ask yourself, ‘how do I even get started?’
 
@@ -74,7 +74,7 @@ Several tools, such as [this colour contrast and analyser](https://contrast-rati
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418627/site-articles/what-defines-accessible-digital-learning/Bar_graph-07_qhojbg.jpg" alt="Bar graph illustrating the use of patterns that distinguish data points instead of relying on colour alone" title="Pattern Graph" class="img-center"/>
 
-## 2﻿. Your Learning Experience Should Be Operable
+## 2. Your Learning Experience Should Be Operable
 
 Another fundamental component of accessible digital learning is ensuring that your interface is operable. This includes elements such as interactivities, quizzes, external links and menus. These course elements should be accessible to screen readers and other assistive technologies.
 
@@ -93,7 +93,7 @@ How could these factors affect a learning experience? Learning experiences can b
 
 If you wish to find out more about how Elevate Learning could assist you in creating an accessible learning experience using Articulate Storyline (or other learning tools), then please [contact us here](https://www.elevatelearning.org/#contact).
 
-## 3﻿. Your Learning Experience Should Be Understandable
+## 3. Your Learning Experience Should Be Understandable
 
 Everyone has different comprehension abilities, but all learners should be able to understand the content and how to use the user interface. Here are some tips on how you can improve this level of accessibility:
 
@@ -102,7 +102,7 @@ Everyone has different comprehension abilities, but all learners should be able 
 - Label and order course content coherently. Include a table of contents or a breakdown of all the topics/modules. Where possible, allow users to control how they progress through the learning experience, at their own pace and in an order that suits them.
 - Ensure automatic input fields are simple and display clear, informative error messages to redirect the learner when necessary.
 
-## 4﻿. Your Learning Experience Should be Robust
+## 4. Your Learning Experience Should be Robust
 
 Lastly, your content should be robust. This means it should be compatible with your learners’ web browsers, media players or any plug-ins that help participants with disabilities to interact with and consume the content. Ultimately, the user experience should be equal for those using assistive technology or not.
 
@@ -110,18 +110,18 @@ While this foundational principle specifically targets web developers, as learni
 
 Let’s consider Alex for the final time: a tested, accessible learning environment has been created. However, despite creating a keyboard-navigable environment, Alex’s disability means that they cannot engage with an interactive learning environment. In this instance, create accessible PDF documents that house all the course’s content. You have successfully catered for a wide variety of needs, and have mitigated excluding a learner from gaining knowledge.
 
-# F﻿inal Thoughts
+# Final Thoughts
 
 [According to the World Health Organization](https://www.who.int/news-room/fact-sheets/detail/disability-and-health), around 16% of the world’s population experience difficulties with ability. This is a massive part of our population, and as mentioned, the direction our world is moving in is one of inclusivity and empowerment. Getting a head start at making your content as inclusive as possible will allow you to truly design and develop learning experiences that are user-centered, design-focused and goal-oriented.
 To help you on your journey towards creating more accessible and inclusive learning experiences, follow these tips:
 
 - **Approach:** Approach your learning experience design from a people-centered approach, instead of a people-first approach. By appealing to a broad range of learning preferences in the way you design your learning experience, you can create a more learner-centered experience, which will ensure you avoid reducing learners to their categories, and instead, embrace their differences.
 - **Language:** Avoid using defamatory language or characters in your learning experience that perpetuates harmful stereotypes. Keep your language, style and tone relatively neutral and avoid specifically mentioning demographic information (for example, for a persona or case study), unless it is relevant to the content. Similarly in designing graphics, try to include a wide variety of illustrations and character types to ensure all learners feel represented.
-- **T﻿echnology:** Take time to carefully consider the UX/UI development of your learning experience — ensuring an operable experience for your learners. Your learning experience should be compatible with different web and mobile browsers. Take the time to carefully test your environment by using assistive tools such as screen readers and voice recognition software. And finally, consider incorporating different user interfaces for learners with visual, auditory, and motor impairments.
+- **Technology:** Take time to carefully consider the UX/UI development of your learning experience — ensuring an operable experience for your learners. Your learning experience should be compatible with different web and mobile browsers. Take the time to carefully test your environment by using assistive tools such as screen readers and voice recognition software. And finally, consider incorporating different user interfaces for learners with visual, auditory, and motor impairments.
 
 And as technology continues to adapt, the Web Content Accessibility Guidelines are updated. Therefore, it is imperative to check for the latest updates in these accessibility guidelines. Remember, equal is everyone getting the same thing. Fair is everyone getting what they need to be successful. And by following WCAG, you can ensure everyone has a fair chance of having a successful digital learning experience.
 
-## R﻿eferences
+## References
 
 Rhodes, A. (2020) _What's the best font for people with dyslexia?_, _Extensis_. Celartem, Inc d.b.a. Extensis. Available at: https://www.extensis.com/blog/whats-the-best-font-for-people-with-dyslexia
 
