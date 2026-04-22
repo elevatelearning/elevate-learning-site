@@ -76,14 +76,19 @@ Notes:
 
 ## Scripts
 
-| Command           | Purpose                                                 |
-| ----------------- | ------------------------------------------------------- |
-| `npm run develop` | Start Gatsby dev server with GraphQL Playground enabled |
-| `npm run build`   | Create production build in `public/`                    |
-| `npm run serve`   | Serve the built site locally                            |
-| `npm run clean`   | Clear Gatsby caches and generated files                 |
-| `npm run format`  | Run Prettier across JS, TS, JSON, and Markdown files    |
-| `npm test`        | Placeholder script, currently exits with failure        |
+| Command                     | Purpose                                                 |
+| --------------------------- | ------------------------------------------------------- |
+| `npm run develop`           | Start Gatsby dev server with GraphQL Playground enabled |
+| `npm run build`             | Create production build in `public/`                    |
+| `npm run serve`             | Serve the built site locally                            |
+| `npm run clean`             | Clear Gatsby caches and generated files                 |
+| `npm run format`            | Run Prettier across JS, TS, JSON, and Markdown files    |
+| `npm run lint`              | Run the Markdown lint checks configured for the project |
+| `npm run lint:chars`        | Check Markdown for forbidden invisible special chars    |
+| `npm run lint:chars:fix`    | Replace forbidden invisible special chars in Markdown   |
+| `npm run lint:markdown`     | Lint `README.md` and article Markdown content           |
+| `npm run lint:markdown:fix` | Apply auto-fixable Markdown lint changes                |
+| `npm test`                  | Placeholder script, currently exits with failure        |
 
 ## Content Workflow
 

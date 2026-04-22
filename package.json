@@ -64,6 +64,7 @@
   "devDependencies": {
     "@netlify/plugin-gatsby": "^3.8.4",
     "cross-env": "^10.1.0",
+    "markdownlint-cli2": "^0.22.0",
     "prettier": "^3.8.3"
   },
   "homepage": "https://www.elevatelearning.org",
@@ -80,6 +81,11 @@
     "build": "gatsby build",
     "develop": "cross-env GATSBY_GRAPHQL_IDE=playground gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "lint": "npm run lint:markdown && npm run lint:chars",
+    "lint:chars": "node scripts/lint-special-chars.js",
+    "lint:chars:fix": "node scripts/lint-special-chars.js --fix",
+    "lint:markdown": "markdownlint-cli2",
+    "lint:markdown:fix": "markdownlint-cli2 --fix",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",

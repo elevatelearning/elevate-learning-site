@@ -72,8 +72,8 @@ Duckworth, A.L., Peterson, C., Matthews, M.D., & Kelly, D.R. (2007). Grit: Perse
 
 Ericsson, K. A., Krampe, R. T., & Tesch-Romer, C. (1993). _The Role of Deliberate Practice in the Acquisition of Expert Performance. Psychological Review_. 100(3), pp. 363-406.
 
-Ericsson, A.K., Prietula, M.J., Cokely, E.T. (2007). _The Making of an Expert_. Available at: [https://hbr.org/2007/07/the-making-of-an-expert ](https://hbr.org/2007/07/the-making-of-an-expert)
+Ericsson, A.K., Prietula, M.J., Cokely, E.T. (2007). _The Making of an Expert_. Available at: <https://hbr.org/2007/07/the-making-of-an-expert>
 
-Ericsson, K. A. & Harwell, K. W. (2019). Deliberate Practice and Proposed Limits on the Effects of Practice on the Acquisition of Expert Performance: Why the Original Definition Matters and Recommendations for Future Research. _Front. Psychol_. 10: 2396. Available at: ​​[https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02396/full ](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02396/full)
+Ericsson, K. A. & Harwell, K. W. (2019). Deliberate Practice and Proposed Limits on the Effects of Practice on the Acquisition of Expert Performance: Why the Original Definition Matters and Recommendations for Future Research. _Front. Psychol_. 10: 2396. Available at: <https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02396/full>
 
 McClendon, C.,Massey Neugebauer, R. & King, A. (2017). Grit, Growth Mindset and Deliberate Practice in Online Learning. _Journal of Instructional Research_. 6(1027), pp. 8 - 17.

@@ -34,33 +34,33 @@ Whether you’re brand new to the digital learning design field, or you have ple
 
 Here are [three steps and some questions](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-assessment/understanding-alignment-assessment) you can ask yourself to help you better align your assessments with your learning outcomes:
 
-## S﻿tep 1: Determine what is acceptable evidence of learning
+## Step 1: Determine what is acceptable evidence of learning
 
-Q﻿uestions to ask yourself:
+Questions to ask yourself:
 
-- W﻿hat assessment methods would best measure student learning?
-- H﻿ow will students demonstrate their mastery of course learning outcomes?
+- What assessment methods would best measure student learning?
+- How will students demonstrate their mastery of course learning outcomes?
 
-## S﻿tep 2: Review existing course learning outcomes or write new ones
+## Step 2: Review existing course learning outcomes or write new ones
 
-Q﻿uestions to ask yourself:
+Questions to ask yourself:
 
-- F﻿or each course learning outcome, what are students supposed to be able to do?
-- I﻿f you were to ask a student to explain back to you what the learning outcome means do you think they will have the same understanding and expectations as you?
+- For each course learning outcome, what are students supposed to be able to do?
+- If you were to ask a student to explain back to you what the learning outcome means do you think they will have the same understanding and expectations as you?
 
-## S﻿tep 3: Make the connection
+## Step 3: Make the connection
 
-Q﻿uestions to ask yourself:
+Questions to ask yourself:
 
-- W﻿hat course learning outcomes will each assessment measure? How?
-- I﻿s every assessment method connected to a course learning outcome?
-- A﻿re there a variety of assessment methods throughout the course?
+- What course learning outcomes will each assessment measure? How?
+- Is every assessment method connected to a course learning outcome?
+- Are there a variety of assessment methods throughout the course?
 
 ---
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_02_banner-03_gex5ty.png" alt="Well-designed assessments should reflect the discipline or field of study" title="Well-designed assessments should reflect the discipline or field of study" class="img-left"/>
 
-Whether it be in an academic setting, where assessments should [relate directly to the learner’s field of interest](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-assessments), or in a corporate setting, where learners should be provided with the opportunity to practically apply the content and skills required to perform in their roles, a well-designed assessment targets specific skills and competencies for success.
+Whether it be in an academic setting, where assessments should [relate directly to the learner’s field of interest](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-assessments), or in a corporate setting, where learners should be provided with the opportunity to practically apply the content and skills required to perform in their roles, a well-designed assessment targets specific skills and competencies for success.
 
 In the end, a well-designed assessment should be practical in nature and reflect the type of activities that your learners would be doing in their field of work or industry.
 
@@ -73,10 +73,10 @@ Well-designed assessments keep accessibility in mind. By this, we mean that asse
 Ask yourself the following questions in line with [WCAG](https://www.w3.org/TR/WCAG21/):
 
 - Can time limits on assessments be extended for learners who require additional time?
-- C﻿an learners save their progress and return to the assessment at a later stage to complete it?
-- C﻿an a submission of a confirmation message be set? (i.e., 'Are you sure you are ready to submit your answers?')
-- C﻿an learners review their answers before submitting them?
-- C﻿an learners 'cancel' or reverse a submission if the submit button is clicked on in error?
+- Can learners save their progress and return to the assessment at a later stage to complete it?
+- Can a submission of a confirmation message be set? (i.e., 'Are you sure you are ready to submit your answers?')
+- Can learners review their answers before submitting them?
+- Can learners 'cancel' or reverse a submission if the submit button is clicked on in error?
 
 At Elevate Learning, we believe in championing all voices, contexts, perspectives and cultures. This flows into our pedagogical choices, which are shaped by our desire to create accessible and inclusive learning experiences. Our goal is to ensure that no one feels left behind.
 
@@ -113,7 +113,7 @@ Whereas an effective summative assessment could include:
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545141/site-articles/principles-of-good-assessment-design/Principle_05_banner-06_ijasem.png" alt="Well-designed assessments include explicit, accessible and transparent information" title="Well-designed assessments include explicit, accessible and transparent information" class="img-left"/>
 
-[All stakeholders](https://warwick.ac.uk/fac/cross_fac/academic-development/assessmentdesign/assessmentdesignprinciples/#:~:text=In%20short%2C%20inclusive%20assessment%20shares,feedback%20is%20individualised%20and%20effective) should receive clear, accurate and consistent information relating to the assessment purpose, methods, procedures, and criteria. Assessments should be transparent to be considered fair. Learners should be provided with clear expectations indicating what is being taught, how they need to demonstrate their learning as well as the criteria used to assess them. This is more important than ever before for digital learning, as many [learners are experiencing online assessments for the first time](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses). 
+[All stakeholders](https://warwick.ac.uk/fac/cross_fac/academic-development/assessmentdesign/assessmentdesignprinciples/#:~:text=In%20short%2C%20inclusive%20assessment%20shares,feedback%20is%20individualised%20and%20effective) should receive clear, accurate and consistent information relating to the assessment purpose, methods, procedures, and criteria. Assessments should be transparent to be considered fair. Learners should be provided with clear expectations indicating what is being taught, how they need to demonstrate their learning as well as the criteria used to assess them. This is more important than ever before for digital learning, as many [learners are experiencing online assessments for the first time](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses).
 
 Here are a few examples of how to prepare your learners for various assessments:
 
@@ -131,23 +131,23 @@ In addition, video and audio feedback foster connections between instructors and
 
 ---
 
-# F﻿inal Thoughts
+# Final Thoughts
 
 Whether you’re designing assessments for face-to-face learning environments or online learning, assessments continue to lie at the heart of any learning experience. ell-designed assessments are beneficial for all stakeholders — it highlights potential weaknesses and areas for iteration in a learning designer’s course design, provides insights for the assessors, clients or managers into the strengths and weaknesses of their learners, and highlights to learners where further improvement may be needed.
 
 If you would like to learn more about our service offerings, or if you require assistance with your assessment design and implementation, then [contact us here](https://www.elevatelearning.org/#contact).
 
-## R﻿eferences
+## References
 
 Bulut, S. (2019). Assessing online learners’ academic self-efficacy in a symbiotic learning environment. http://doi.org/10.2139/ssrn.3370615
 
-Dyjur, P., Kelly, S., Eaton, S., & Grant K, (n.d). Learning Module: Designing Online Assessments. University of Calgary.  <https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses>
+Dyjur, P., Kelly, S., Eaton, S., & Grant K, (n.d). Learning Module: Designing Online Assessments. University of Calgary.  <https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses>
 
-Kundra, P., Kurdi, M., Mehrotra, S., Jahan, N., Kiran, S., & Vadhanan, P. (2022). Newer teaching-learning methods and assessment modules in anaesthesia education. Indian Journal of Anaesthesia, 66(1), 47.
+Kundra, P., Kurdi, M., Mehrotra, S., Jahan, N., Kiran, S., & Vadhanan, P. (2022). Newer teaching-learning methods and assessment modules in anaesthesia education. Indian Journal of Anaesthesia, 66(1), 47.
 
 Landers, R. N., & Sanchez, D. R. (2022). Game‐based, gamified, and gamefully designed assessments for employee selection: Definitions, distinctions, design, and validation. International Journal of Selection and Assessment, 30(1), 1-13.
 
-Oldfield, A., Broadfoot, P., Sutherland, R., &Timmis, S. (n.d) Assessment in a Digital Age: A research review. Graduate School of Education, University of Bristol.  https://www.bristol.ac.uk/media-library/sites/education/documents/researchreview.pdf
+Oldfield, A., Broadfoot, P., Sutherland, R., &Timmis, S. (n.d) Assessment in a Digital Age: A research review. Graduate School of Education, University of Bristol.  https://www.bristol.ac.uk/media-library/sites/education/documents/researchreview.pdf
 
 Principles of Assessment Design. (2022). Warwick: Academic Development Centre. https://warwick.ac.uk/fac/cross_fac/academic-development/assessmentdesign/assessmentdesignprinciples/#:~:text=In%20short%2C%20inclusive%20assessment%20shares,feedback%20is%20individualised%20and%20effective.
 
