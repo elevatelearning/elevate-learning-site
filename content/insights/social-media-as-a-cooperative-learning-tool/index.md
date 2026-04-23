@@ -12,11 +12,11 @@ Long before the COVID-19 outbreak, individuals across the world were using socia
 
 By its very nature, the digital world is continually developing, growing and adapting. The social media platforms which occupy this space equally adapt to meet its users' changing demands and needs. However, one use of social media remains unchanged: social networking.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1655723844/site-articles/social-media-as-a-cooperative-learning-tool/What_does_cooperative_learning_mean_1_lsnlh8.png" alt="Graphic illustrating the definition of social networking." title="What is social networking?" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1655723844/site-articles/social-media-as-a-cooperative-learning-tool/What_does_cooperative_learning_mean_1_lsnlh8.png" alt="Graphic illustrating the definition of social networking." title="What is social networking?" /></figure>
 
 </br>Social learning is a key motivating factor for many in-person learning experiences. The growing demand to take learning online whilst ensuring that the social needs of learners are met has left many scratching their heads as to how to achieve this. But it's the same platforms we've long been using to engage with others online that can also be utilised as a cooperative learning tool.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1655723844/site-articles/social-media-as-a-cooperative-learning-tool/What_does_cooperative_learning_mean_nvplwt.png" alt="Graphic illustration the definition for cooperative learning." title="What does cooperative learning mean?" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1655723844/site-articles/social-media-as-a-cooperative-learning-tool/What_does_cooperative_learning_mean_nvplwt.png" alt="Graphic illustration the definition for cooperative learning." title="What does cooperative learning mean?" /></figure>
 
 </br> With [more than half the world's population](https://www.broadbandsearch.net/blog/average-daily-time-on-social-media#post-navigation-1) having some sort of social media account, it is increasingly becoming evident that institutions seeking to disseminate learning material, have not only a wide audience base, but one that is ready to consume information online.
 
@@ -32,7 +32,7 @@ If implemented carefully, the use of social media in the learning process could 
 
 Their proposed framework is made up of five levels which are followed sequentially:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655108909/site-articles/social-media-as-a-cooperative-learning-tool/Hamadi_et_al_1_gg3gqk.png" alt="This image illustrates the five levels of using social media as a cooperative learning tool." title="The Five Levels of Using Social Media as a Cooperative Learning Tool" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655108909/site-articles/social-media-as-a-cooperative-learning-tool/Hamadi_et_al_1_gg3gqk.png" alt="This image illustrates the five levels of using social media as a cooperative learning tool." title="The Five Levels of Using Social Media as a Cooperative Learning Tool" /></figure>
 
 </br> This framework identifies valuable considerations for any learning environment or design:
 
@@ -43,7 +43,7 @@ Their proposed framework is made up of five levels which are followed sequential
 
 While the purpose of this article is not to describe the five levels of the original work, it is of importance to explore some of the key points from this framework as they align with various social media tactics and platforms within the eLearning space.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109329/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_1_1_wbrhbi.png" alt="Choose a platform that is fit-for-purpose" title="Choose a platform that is fit-for-purpose" class=""/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109329/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_1_1_wbrhbi.png" alt="Choose a platform that is fit-for-purpose" title="Choose a platform that is fit-for-purpose" /></figure>
 
 </br>
 
@@ -67,7 +67,7 @@ Let’s consider Instagram, a social media platform where information is shared 
 
 In the examples below, each Instagram account has been set up with the purpose of helping their followers learn and improve their English skills.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109595/site-articles/social-media-as-a-cooperative-learning-tool/Group_171_1_rzgdrk.png" alt="This image illustrates three examples of Instagram being used as a cooperative learning tool. " title="Instragram as a Cooperative Learning Tool" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109595/site-articles/social-media-as-a-cooperative-learning-tool/Group_171_1_rzgdrk.png" alt="This image illustrates three examples of Instagram being used as a cooperative learning tool. " title="Instragram as a Cooperative Learning Tool" /></figure>
 
 </br>This method of learning offers learners the opportunity to exercise independent study within their timeframe. Learning time is a key consideration for any course or programme, especially given the increasing time-stress being placed on our learners.
 
@@ -75,7 +75,7 @@ It is vital that learning designers, instructors, and educators understand how t
 
 </br>
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109415/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_2_1_ttchsv.png" alt="Identify and mitigate valid learner concerns" title="Identify and mitigate valid learner concerns" class=""/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109415/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_2_1_ttchsv.png" alt="Identify and mitigate valid learner concerns" title="Identify and mitigate valid learner concerns" /></figure>
 
 </br>
 
@@ -95,7 +95,7 @@ When dealing with ambiguity, three aspects must be considered: **purpose**, **pr
 
 Furthermore, learners may experience workload concerns associated with multitasking, distractions and time management when using social media platforms. Instructors should help learners navigate these concerns by bringing awareness to these potential roadblocks, ensuring that learning isn’t negatively influenced.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109416/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_3_1_x5lqd1.png" alt="Use social media as a learner motivation tool" title="Use social media as a learner motivation tool" class=""/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109416/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_3_1_x5lqd1.png" alt="Use social media as a learner motivation tool" title="Use social media as a learner motivation tool" /></figure>
 
 </br>
 
@@ -111,7 +111,7 @@ Encouraging learner participation and engagement through the use of the comment 
 
 Not only can YouTube be utilised as a powerful tool for [enhancing content mastery through visual cues](https://www.shiftelearning.com/blog/teach-learn-share-the-role-of-social-media-in-elearning), but its comment features allow for learners to engage with fellow learners by replying to comments which may spark interest. Use prompts at the end of your videos asking learners to share their personal insights — What stood out to them? What challenged their perceptions towards the topic or concept? Then, take it one step further by encouraging learners to interact with other comments. As an instructor, a rubric could be developed to assess the quality of the posts, as well as the learner-to-learner engagement.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109417/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_4_1_tyourg.png" alt="Evaluate learner engagement and interest" title="Evaluate learner engagement and interest" class=""/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109417/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_4_1_tyourg.png" alt="Evaluate learner engagement and interest" title="Evaluate learner engagement and interest" /></figure>
 
 </br>
 

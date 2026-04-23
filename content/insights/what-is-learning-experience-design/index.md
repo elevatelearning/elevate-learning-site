@@ -12,13 +12,13 @@ Learning Experience Design (or LXD) is a relatively new discipline within the fi
 
 It is widely agreed in education circles that “learning is the process whereby knowledge is created through the transformation of experience” (Kolb, 1984, p. 38). Kolb, a psychologist and educational theorist, states that learners need to feel, watch, think, and do in order for effective learning to take place. He developed a cyclical continuum that integrates and embeds knowledge, competencies, and skills habitually and continuously into the learners’ everyday contexts.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430622/site-articles/what-is-learning-experience-design/kolb-experiential-learning_jxha8h.jpg" alt="Kolb's Experiential Learning Cycle" title="Kolb's Experiential Learning Cycle" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430622/site-articles/what-is-learning-experience-design/kolb-experiential-learning_jxha8h.jpg" alt="Kolb's Experiential Learning Cycle" title="Kolb's Experiential Learning Cycle" /></figure>
 
 While Kolb’s initial research is many decades old now, it’s because of recent advancements in digital learning platforms and trends that learning experience design has evolved as a complementary approach to designing impactful learning programmes. As such, Learning Experience Design has emerged as an interdisciplinary approach to creating learning experiences that most effectively and efficiently cycles through this process, resulting in maximum learning and retention.
 
 ## So, What is Learning Experience Design?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430622/site-articles/what-is-learning-experience-design/what-is-learning-experience-design_zkupo2.jpg" alt="What is Learning Experience Design?" title="What is Learning Experience Design?" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430622/site-articles/what-is-learning-experience-design/what-is-learning-experience-design_zkupo2.jpg" alt="What is Learning Experience Design?" title="What is Learning Experience Design?" /></figure>
 
 ### 1. LXD is Learner-Centered.
 

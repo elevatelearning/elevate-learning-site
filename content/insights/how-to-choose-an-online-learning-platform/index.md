@@ -12,11 +12,11 @@ Online learning platforms have adapted over the years as we have come to better 
 
 Here is where we recommend you take a step back and first focus on why you need a learning platform and then what you will need it to do, based on your business and learning goals, budget and various other considerations. The following questions will help you get to the ‘why’ of your learning experience, and subsequently, to how best to deliver it and via which technology.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_700/v1652354461/site-articles/how-to-choose-an-online-learning-platform/choosing-an-online-learning-platform_tng8uf.png" alt="How to Choose an Online Learning Platform" title="How to Choose an Online Learning Platform" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_700/v1652354461/site-articles/how-to-choose-an-online-learning-platform/choosing-an-online-learning-platform_tng8uf.png" alt="How to Choose an Online Learning Platform" title="How to Choose an Online Learning Platform" /></figure>
 
 ### 1. What are our strategic objectives?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652354740/site-articles/how-to-choose-an-online-learning-platform/strategic-objectives_p1kykd.png" alt="What are our strategic objectives?" title="What are our strategic objectives?" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652354740/site-articles/how-to-choose-an-online-learning-platform/strategic-objectives_p1kykd.png" alt="What are our strategic objectives?" title="What are our strategic objectives?" /></figure>
 
 What business problem are you aiming to solve by investing in a digital platform? This could be to scale your learning beyond classroom training, or to improve the tracking and measuring of your learning initiatives. Or perhaps you’re looking to monetise your training interventions, or to better track and manage individual learning journeys or to build learning communities.
 
@@ -26,7 +26,7 @@ Then, you’ll need to take a closer look at your user groups.
 
 ### 2. Who are our key stakeholders?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652354873/site-articles/how-to-choose-an-online-learning-platform/key-stakeholders_lzlxg1.png" alt="Who are our key stakeholders?" title="Who are our key stakeholders?" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652354873/site-articles/how-to-choose-an-online-learning-platform/key-stakeholders_lzlxg1.png" alt="Who are our key stakeholders?" title="Who are our key stakeholders?" /></figure>
 
 Who will be using the platform? What are their digital literacy or platform management capabilities? If you’re early into your digital learning journey, you might not need a platform that has all the bells and whistles, or which will require additional support and resources to implement. If you’re upgrading your systems, you’ll need to consider what’s currently working and what is missing.
 
@@ -36,7 +36,7 @@ Then, you’ll need to make sure you understand how a new platform will fit into
 
 ### 3. How will it integrate?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355044/site-articles/how-to-choose-an-online-learning-platform/will-it-integrate_vkhw2o.png" alt="How will it integrate?" title="How will it integrate?" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355044/site-articles/how-to-choose-an-online-learning-platform/will-it-integrate_vkhw2o.png" alt="How will it integrate?" title="How will it integrate?" /></figure>
 
 Will your new platform need to integrate with any existing security or single sign on procedures? Will you be able to extract all learning data and report on it in your existing systems? If you’re replacing an existing system, what are you trying to replace or upgrade and why? Who will support the implementation and what organisational processes will need to change, if any?
 
@@ -46,7 +46,7 @@ From here, you’ll need to determine what success looks like.
 
 ### 4. How will we measure success?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355105/site-articles/how-to-choose-an-online-learning-platform/measure-success_cm9tbf.png" alt="How will we measure success?" title="How will we measure success?" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355105/site-articles/how-to-choose-an-online-learning-platform/measure-success_cm9tbf.png" alt="How will we measure success?" title="How will we measure success?" /></figure>
 
 Think about how your organisation measures success, what data you will need from the system to do so, and how your stakeholders will want to measure the return on investment. You’ll need to make sure there are no hidden costs or additional licensing or implementation fees, so ask your proposed vendors or suppliers to be very specific about what their pricing does and doesn’t include.
 
@@ -60,7 +60,7 @@ It’s important to disclaim as well that what we call different types of platfo
 
 ### 1. Install a traditional open-source learning management system with some custom development.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355216/site-articles/how-to-choose-an-online-learning-platform/learning-management-system_gx5hnx.png" alt="Open-source learning management system" title="Open-source learning management system" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355216/site-articles/how-to-choose-an-online-learning-platform/learning-management-system_gx5hnx.png" alt="Open-source learning management system" title="Open-source learning management system" /></figure>
 
 Most learning management systems work on the premise of you installing cloud-based software that can be customised to some degree to meet your technological requirements. The traditional LMS functions primarily as a course management platform, emphasising tracking and managing learning activities. They generally have limited student interaction and engagement and are more suited to tracking student progress against learning objectives through individual assessments and completion tracking. Over time, the functionality of these types of systems have evolved to become more learner-centered, but their fundamental architecture is premised on an individual’s experience of learning content, followed by some sort of measurement of that experience.
 
@@ -68,7 +68,7 @@ Examples of this type of platform are Moodle or OpenEdX, which are both free to 
 
 ### 2. Implement an off-the-shelf, pay-per-user subscription-based platform.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355515/site-articles/how-to-choose-an-online-learning-platform/subscription-based-platform_kzhv4b.png" alt="Pay-per-user subscription-based platform" title="Pay-per-user subscription-based platform" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355515/site-articles/how-to-choose-an-online-learning-platform/subscription-based-platform_kzhv4b.png" alt="Pay-per-user subscription-based platform" title="Pay-per-user subscription-based platform" /></figure>
 
 A more recent addition to the learning platform landscape is the LXP, which prioritises personalised learning experiences and tailors learning experiences to the user. It is a more social platform that provides the functionality for learning to happen in communities.
 
@@ -78,7 +78,7 @@ The Fosway Group releases an annual report on the potential and performance of v
 
 ### 3. Upload content to an online plug-and-play course builder.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355688/site-articles/how-to-choose-an-online-learning-platform/course-builder_xvm9sv.png" alt="Online plug-and-play course builder" title="Online plug-and-play course builder" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355688/site-articles/how-to-choose-an-online-learning-platform/course-builder_xvm9sv.png" alt="Online plug-and-play course builder" title="Online plug-and-play course builder" /></figure>
 
 A similar offering in principle, but better suited to delivering standalone courses, or a suite of similar courses, is through plug-and-play online course builders. These platforms in essence allow you to ‘rent space’ on their platform to market and sell your course offering.
 
@@ -90,7 +90,7 @@ If you’re a subject matter expert looking to monetise your current training of
 
 ### 4. Invest in a custom-designed and developed online learning platform.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355740/site-articles/how-to-choose-an-online-learning-platform/online-learning-platform_s1hfwc.png" alt="Custom-designed online learning platform" title="Custom-designed online learning platform" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355740/site-articles/how-to-choose-an-online-learning-platform/online-learning-platform_s1hfwc.png" alt="Custom-designed online learning platform" title="Custom-designed online learning platform" /></figure>
 
 There is a reason why there are so many off-the-shelf learning platforms and integrations available in the market, and it’s because custom-designing and developing an online learning platform is an enormously costly and time-consuming undertaking. Typically, if you’re choosing to go this route it’s because the project scope is so unique, or the integration with existing systems is so complex, that only a custom-built system will be sufficient.
 
@@ -98,7 +98,7 @@ Having said that, it’s not an impossible task, but because a custom build requ
 
 ### 5. Optimise a traditional website experience for learning.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355774/site-articles/how-to-choose-an-online-learning-platform/traditional-website_c1h2sx.png" alt="Traditional website experience for learning" title="Traditional website experience for learning" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652355774/site-articles/how-to-choose-an-online-learning-platform/traditional-website_c1h2sx.png" alt="Traditional website experience for learning" title="Traditional website experience for learning" /></figure>
 
 An increasingly popular approach to designing learning experiences and delivering online courses is to create a digital experience that is learning focused (as opposed to designing a learning experience that is digital). This allows organisations to share resources and design an interactive learning experience through an existing website or digital tool.
 
@@ -106,7 +106,7 @@ Depending on how your website has been built, this option has proven popular wit
 
 ### 6. Embed learning experiences into your existing technology stack.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652356372/site-articles/how-to-choose-an-online-learning-platform/learning-experiences_jvsg5t.png" alt="Technology stack learning experiences" title="Technology stack learning experiences" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_150/v1652356372/site-articles/how-to-choose-an-online-learning-platform/learning-experiences_jvsg5t.png" alt="Technology stack learning experiences" title="Technology stack learning experiences" /></figure>
 
 Finally, and perhaps what learning professionals are grappling with the most at the moment, is that if we want to truly embed learning into your current digital experience, we can’t separate where learning takes place from one’s daily activities. You can be sure that unless your employees are working in the digital learning team, they’re not spending most of their day on your learning platform, and so packaging learning into neatly defined online courses and placing them on a separate learning platform to where users interact with each other and their work tasks removes the learning from reality. It adds another barrier to implementing new skills, competencies or information in real time because the ‘what’ is removed from the ‘how’, making it that much more challenging to either bring learners to the learning, or putting the learning experience in the day to day.
 

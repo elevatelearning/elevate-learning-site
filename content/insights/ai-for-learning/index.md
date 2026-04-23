@@ -12,11 +12,11 @@ If you’ve logged onto LinkedIn recently, there’s no doubt that your feed has
 
 The future of learning design (and education as a whole) is shaped by changes and advancements in digital technology. As learning design specialists, we’re encouraged to stay on top of current trends related to learning, and the impact that certain advancements could have on the way we design learning for the future. But, what if these trends and upcoming advancements posed a threat to not only how we design learning, but to our roles within learning design?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067152/site-articles/ai-for-learning/banner_2.1-05_1_iwhnjk.png" alt="Decorative graphic" title="Decorative graphic" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067152/site-articles/ai-for-learning/banner_2.1-05_1_iwhnjk.png" alt="Decorative graphic" title="Decorative graphic" /></figure>
 
 # The Changing Role of Learning Designers
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067194/site-articles/ai-for-learning/banner_2.2-06_1_csqjqv.png" alt="Decorative image" title="Decorative image" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067194/site-articles/ai-for-learning/banner_2.2-06_1_csqjqv.png" alt="Decorative image" title="Decorative image" /></figure>
 
 As experts in learning and development, we play a crucial role in guiding learners on their journey of knowledge acquisition and competency development. But the way we approach this task is evolving. Gone are the days of rigidly scheduled classroom sessions or solely relying on information shared via a company-wide learning management system. In today’s information age and knowledge economy, learners expect to access knowledge on their terms and at their own pace.
 
@@ -32,13 +32,13 @@ And, why should you care? If this is all hype, surely the conversation will even
 
 [According to JD Dillon, founder of LearnGeek](https://www.learngeek.co/innovation/), it’s time to pay attention to AI. His research shows that it’s no longer just hype — it’s becoming a reality. Instead of resisting it, we should explore how we can leverage AI to our advantage and stay ahead of the curve.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_650/v1675067234/site-articles/ai-for-learning/LearnGeek_Innovation_Cycle-11_kexptr.png" alt="The LearnGeek innovation cycle indicating the relevance and growth of learning innovations, tools and technology." title="The LearnGeek Innovation Cycle" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_650/v1675067234/site-articles/ai-for-learning/LearnGeek_Innovation_Cycle-11_kexptr.png" alt="The LearnGeek innovation cycle indicating the relevance and growth of learning innovations, tools and technology." title="The LearnGeek Innovation Cycle" /></figure>
 
 **Let's take a look at how AI might impact learning.**
 
 **</br>**
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067346/site-articles/ai-for-learning/learning_equity-03_h7ybwx.png" alt="The impact of artificial intelligence on learning equity" title="The impact of artificial intelligence on learning equity" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067346/site-articles/ai-for-learning/learning_equity-03_h7ybwx.png" alt="The impact of artificial intelligence on learning equity" title="The impact of artificial intelligence on learning equity" /></figure>
 
 Following from our [previous article on accessibility in learning](https://www.elevatelearning.org/insights/what-defines-accessible-digital-learning/), a key aim of learning designers should be to create equitable learning experiences that are accessible to all learners regardless of ability or disability. That being said, designing learning experiences are much more complex and requires more consideration. Thankfully, advances in AI technology have also placed accessibility at the forefront of learning design, essentially simplifying the creation of accessible learning experiences.
 
@@ -52,7 +52,7 @@ Following from our [previous article on accessibility in learning](https://www.e
 - **Automatic translation:** These tools can help learners who speak different languages to access online course content in their preferred language. Existing AI tools include: [Google Translate](https://translate.google.com/), [DeepL](https://www.deepl.com/translator?referrer=https%3A%2F%2Fwww.google.com%2F), and [Smartling](https://www.deepl.com/translator?referrer=https%3A%2F%2Fwww.google.com%2F).
 - **AI-powered personal tutors:** These tools can provide one-on-one support and guidance to learners, providing personalised feedback and coaching based on their performance. Existing AI tools include: [Entelechy](https://entelechy.app/) and [Google Cloud](https://cloud.google.com/blog/topics/public-sector/new-google-cloud-student-success-services-help-educators-scale-individualized-learning).
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067343/site-articles/ai-for-learning/content_creation-02_p4lwtu.png" alt="The impact of artificial intelligence on content creation" title="The impact of artificial intelligence on content creation" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067343/site-articles/ai-for-learning/content_creation-02_p4lwtu.png" alt="The impact of artificial intelligence on content creation" title="The impact of artificial intelligence on content creation" /></figure>
 
 [Utilising AI](https://learngeek.substack.com/p/this-newsletter-was-written-by-a) can be a valuable time-saving tool in the content development stage of a project, but it’s important to remember that as learning designers, it’s our responsibility to ensure that the material meets specific learnability standards, and most importantly, the needs of our learners.
 
@@ -68,7 +68,7 @@ As learning designers, we’re responsible for the development of all learning m
 - **Video and audio editing tools:** These AI tools can help learning designers to quickly and easily edit video and audio content, such as by transcribing speech, adding captions, and generating subtitles. Existing AI tools include: [Adobe Premiere Rush](https://www.adobe.com/africa/products/premiere-rush.html), [Adobe Captivate](https://www.adobe.com/africa/products/captivate.html), [Articulate Storyline](https://articulate.com/360/storyline), and [Audacity](https://www.audacityteam.org/).
 - **Interactive content creation:** These tools can help learning designers to create interactive learning experiences, such as virtual reality simulations, gamified learning, and adaptive quizzes. Existing AI tools include: [Adobe XD](https://www.adobe.com/products/xd/learn/get-started/what-is-adobe-xd-used-for.html), [H5P](https://h5p.org/), [Articulate Rise](https://rise.com/?utm_source=articulate.com&utm_medium=referral&utm_campaign=header), and [Quizlet](https://quizlet.com/).
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067348/site-articles/ai-for-learning/monitoring_and_evaluation-01_iym48w.png" alt="The impact of artificial intelligence on monitoring and evaluation" title="The impact of artificial intelligence on monitoring and evaluation" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067348/site-articles/ai-for-learning/monitoring_and_evaluation-01_iym48w.png" alt="The impact of artificial intelligence on monitoring and evaluation" title="The impact of artificial intelligence on monitoring and evaluation" /></figure>
 
 A well-designed learning experience is characterised by its personalisation to the individual learner. To achieve this, it is essential for learning designers to continually evaluate and incorporate learner data into their designs. This iterative process allows for more effective and efficient delivery of instruction, ultimately leading to enhanced learning outcomes.
 
@@ -82,11 +82,11 @@ So, how does AI help revolutionise the tedious process of synthesising and analy
 - **Predictive Analytics:** These tools use data on student performance and demographics to predict future learner success and identify at-risk learners. Existing AI tools include: [Knewton](https://www.knewton.com/) and [Smart Sparrow](https://www.smartsparrow.com/).
 - Natural Language Processing (NLP): These tools can be used to analyse learner feedback and discussions, providing insights into learner engagement and understanding of course content. Existing AI tools include: [IBM Watson](https://www.ibm.com/za-en/watson), [Lexalytics](https://www.lexalytics.com/), and [Microsoft Azure Text Analytics](https://azure.microsoft.com/en-us/products/cognitive-services/text-analytics).
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674722681/site-articles/ai-for-learning/banner_01-04_gugleu.png" alt="Decorative image" title="Decoractive Image" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674722681/site-articles/ai-for-learning/banner_01-04_gugleu.png" alt="Decorative image" title="Decoractive Image" /></figure>
 
 # Embracing New Technical Advancements (With Some Caution)
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674722681/site-articles/ai-for-learning/banner_02-05_zi06lb.png" alt="Decorative image" title="Decorative image" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674722681/site-articles/ai-for-learning/banner_02-05_zi06lb.png" alt="Decorative image" title="Decorative image" /></figure>
 
 With all of these tools and advancement, this begs the question what is the point of writing anything ourselves as learning designers and how do we help our students use their developing judgment to utilise AI in ethical ways? Is there even a place for AI in academia?
 

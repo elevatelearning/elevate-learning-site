@@ -18,7 +18,7 @@ This is where we can learn from our colleagues in marketing. Marketers have long
 
 Over the past few years, there has been a significant shift in LXD towards a user-centered approach. Rather than focusing solely on what stakeholders want, the emphasis is now on meeting learners’ needs and delivering experiences that are tailored to their specific requirements. To further enhance this capability, here are five marketing principles to apply to your next digital learning experience design process.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679555657/site-articles/applying-marketing-principles-to-digital-learning-design/Group_414_1_p5oax5.png" alt="Icon illustrating the concept of defining your target audience" title="Principle 1: Target Your Target Audience" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679555657/site-articles/applying-marketing-principles-to-digital-learning-design/Group_414_1_p5oax5.png" alt="Icon illustrating the concept of defining your target audience" title="Principle 1: Target Your Target Audience" /></figure>
 
 # Principle 1: Define Your Target Audience
 
@@ -30,13 +30,14 @@ One technique that we utilise is the creation of **learner personas**. This help
 
 While developing these personas, you’ll need to ask yourself various questions about them, such as, what **motivates** them? What would they hope to **achieve** through an online course? **Where** and **how** do they feel like hearing about it? Answering these questions within your marketing strategy will help you get to know the target demographic you are trying to connect with.
 
-<center><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554346/site-articles/applying-marketing-principles-to-digital-learning-design/Persona_Examples_wl7xto.png" alt="Graphic illustrating examples of learner personas" title="Learning Persona Examples" class="img-center"/></center>
-
-_<center><p text-color: white>Image 1: Examples of personas created by Elevate Learning, along with our Learning Experience Design Essentials course learner persona template.</p></center>_
+<figure class="article-media article-media--center">
+  <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554346/site-articles/applying-marketing-principles-to-digital-learning-design/Persona_Examples_wl7xto.png" alt="Graphic illustrating examples of learner personas" title="Learning Persona Examples" />
+  <figcaption>Image 1: Examples of personas created by Elevate Learning, along with our Learning Experience Design Essentials course learner persona template.</figcaption>
+</figure>
 
 For more on the what, how and why of learning persona, check out our [learner persona carousel on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6991396564069953536).
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556013/site-articles/applying-marketing-principles-to-digital-learning-design/Group_422_ws1i3d.png" alt="Icon illustrating the concept of creating a strong brand positioning" title="Principle 2: Create Strong Brand Positioning" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556013/site-articles/applying-marketing-principles-to-digital-learning-design/Group_422_ws1i3d.png" alt="Icon illustrating the concept of creating a strong brand positioning" title="Principle 2: Create Strong Brand Positioning" /></figure>
 
 # Principle 2: Create Strong Brand Positioning
 
@@ -50,7 +51,7 @@ In addition to telling the story of your learning experience through your brand 
 
 When you meet learners where they are and communicate with them in a way that is relevant and impactful, you will land your learning message. This principle is the same way advertisers sell products and services to you when you don’t even realise that they’re doing it! Be intentional about how, when, and why you communicate with your audience, and it will all contribute towards a successful and impactful learning experience.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556048/site-articles/applying-marketing-principles-to-digital-learning-design/Group_423_eaclu8.png" alt="Icon illustrating the concept of building social proof" title="Principle 3: Build Social Proof" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556048/site-articles/applying-marketing-principles-to-digital-learning-design/Group_423_eaclu8.png" alt="Icon illustrating the concept of building social proof" title="Principle 3: Build Social Proof" /></figure>
 
 # Principle 3: Build Social Proof
 
@@ -70,7 +71,7 @@ Learners can use these platforms to share their reflections on the course conten
 
 These social experiences are a key motivator in the traditional learning space and equally as a means of selling products or experiences online, because the sense of community created through reflecting on a shared experience, whether that’s learning or using a product or service, can enhance your brand and marketing message.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556013/site-articles/applying-marketing-principles-to-digital-learning-design/Group_420_ewu1id.png" alt="Icon representing the concept of setting measurable goals" title="Principle 4: Set Measurable Goals" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556013/site-articles/applying-marketing-principles-to-digital-learning-design/Group_420_ewu1id.png" alt="Icon representing the concept of setting measurable goals" title="Principle 4: Set Measurable Goals" /></figure>
 
 # Principle 4: Set Measurable Goals
 
@@ -78,9 +79,10 @@ As the old saying goes, what’s measured is managed, and like marketing, learni
 
 Similarly with learning experience design, setting high-level goals such as overarching learning objectives or competence-based outcomes you intend learners to achieve, or specific activities they need to complete throughout the learning experience, understanding what will ensure your learning is a success and writing out specific goals to that effect is half the battle won.
 
-<center><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554405/site-articles/applying-marketing-principles-to-digital-learning-design/M3_L1_01_Elevate_s_four_phase_approach_ube5rb.png" alt="Graphic illustrating a four-phase approach to developing a learning strategy, including the following steps: strategy, competencies, delivery and measurement." title="A Four-Phase Approach to Developing a Learning Strategy" class="img-center"/></center>
-
-_<center><p text-color: white>Image 2: Elevate's four-phase approach to developing a learning strategy. To learn more, [enrol in our Learning Experience Design Essentials course](https://lxd.elevatelearning.org/).</p></center>_
+<figure class="article-media article-media--center">
+  <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554405/site-articles/applying-marketing-principles-to-digital-learning-design/M3_L1_01_Elevate_s_four_phase_approach_ube5rb.png" alt="Graphic illustrating a four-phase approach to developing a learning strategy, including the following steps: strategy, competencies, delivery and measurement." title="A Four-Phase Approach to Developing a Learning Strategy" />
+  <figcaption>Image 2: Elevate's four-phase approach to developing a learning strategy. To learn more, <a href="https://lxd.elevatelearning.org/">enrol in our Learning Experience Design Essentials course</a>.</figcaption>
+</figure>
 
 For example, one way to measure the success of your learning experience might be through course completions. So, you’ll set a goal for x number of completions compared to enrolments and then assess the total number of completions within a certain timeframe.
 
@@ -90,7 +92,7 @@ Figuring out what’s working and what’s not by gathering learner feedback, me
 
 Taking this iterative, goal-based approach allows you to adapt your content to context-specific circumstances, making your interventions more user-centric and successful in the long term.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556013/site-articles/applying-marketing-principles-to-digital-learning-design/Group_421_qije3p.png" alt="Icon representing the concept of making your content sticku" title="Principle 5: Make Your Content Stick" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1679556013/site-articles/applying-marketing-principles-to-digital-learning-design/Group_421_qije3p.png" alt="Icon representing the concept of making your content sticku" title="Principle 5: Make Your Content Stick" /></figure>
 
 # Principle 5: Make Your Content Stick
 
@@ -102,9 +104,10 @@ Before the launch of your course, send prospective learners an overview of the c
 
 Providing an overview of the learning objectives before a learner starts a course, or creating an introductory video or glossary with key concepts that will be used in the lesson are all helpful ways of priming the learner for what they will be experiencing. Another example might be when a learner gets to the end of a chapter or lesson, prime them for what’s coming next by stating this in your instructional text.
 
-<center><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554339/site-articles/applying-marketing-principles-to-digital-learning-design/Group_413_mujnob.png" alt="Graphic illustrating a lesson example where a learner has to click a continue button after reaching the end of a chapter." title="In-lesson Continue Button" class="img-center"/></center>
-
-_<center><p text-color: white>Image 3: An example of a learner being primed for what's coming next after reaching the end of a chapter.</p></center>_
+<figure class="article-media article-media--center">
+  <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554339/site-articles/applying-marketing-principles-to-digital-learning-design/Group_413_mujnob.png" alt="Graphic illustrating a lesson example where a learner has to click a continue button after reaching the end of a chapter." title="In-lesson Continue Button" />
+  <figcaption>Image 3: An example of a learner being primed for what's coming next after reaching the end of a chapter.</figcaption>
+</figure>
 
 Similarly, having learners practise a scenario-based activity before completing a summative assessment with similar types of questions helps them to also subconsciously put their new knowledge into practice without the finality or pressure of a final assessment weighing on the experience. Connolly adds that priming can also reduce stress and anxiety by introducing learners to the topics that will be covered, and what will be expected of them, thereby contributing to more effective and successful learning outcomes.
 

@@ -89,7 +89,6 @@
   }
 
   p {
-    clear: both;
     color: $evl-white;
     font-size: 1rem;
   }
@@ -107,10 +106,39 @@
   figure {
     color: $evl-white;
     font-size: 0.9rem !important;
+    margin: 1.5rem 0;
     text-align: center;
 
     img {
       margin-bottom: 10px;
+    }
+  }
+
+  figure.article-media {
+    background: rgba($evl-white, 0.04);
+    border: 1px solid rgba($evl-turquoise, 0.18);
+    border-radius: 1.25rem;
+    box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.18);
+    clear: none;
+    margin: 1.5rem auto;
+    max-width: 100%;
+    padding: 0.85rem;
+    text-align: left;
+    width: fit-content;
+
+    img {
+      border-radius: 0.8rem;
+      display: block;
+      height: auto;
+      margin-bottom: 0;
+      max-width: 100%;
+    }
+
+    figcaption {
+      color: rgba($evl-white, 0.85);
+      font-size: 0.95rem;
+      line-height: 1.5;
+      margin-top: 0.8rem;
     }
   }
 
@@ -120,7 +148,7 @@
     clear: both;
     margin: 1.5em 10px;
     padding: 0.5em 10px;
-    quotes: "\201C""\201D";
+    quotes: "\201C" "\201D";
   }
 
   blockquote:before {
@@ -137,6 +165,7 @@
   }
 
   section {
+    display: flow-root;
     margin-bottom: 50px;
   }
 
@@ -145,8 +174,66 @@
   }
 
   footer {
+    clear: both;
     margin-bottom: 30px;
     margin-top: 30px;
+  }
+
+  center {
+    clear: both;
+    display: block;
+    margin: 1.5rem 0;
+    text-align: center;
+
+    img,
+    iframe {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 100%;
+    }
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  .article-media,
+  img.img-left,
+  img.img-right,
+  img.img-center,
+  img.image-center,
+  img.ime-center {
+    margin-bottom: 1.5rem;
+    margin-top: 0.5rem;
+    max-width: 100%;
+  }
+
+  img.img-left,
+  img.img-right,
+  img.img-center,
+  img.image-center,
+  img.ime-center {
+    border-radius: 0.8rem;
+    box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.16);
+    display: block;
+    height: auto;
+  }
+
+  .article-media--center,
+  img.img-center,
+  img.image-center,
+  img.ime-center {
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  .article-media--center figcaption {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 52ch;
+    text-align: center;
   }
 
   .bio {
@@ -216,20 +303,22 @@
     }
   }
 
-  @media only screen and (min-width: 641px) {
-    .img-right {
-      float: right;
-      margin: 6px 0 10px 40px !important;
+  @include media-breakpoint-up(md) {
+    .article-media--left,
+    .article-media--right {
+      max-width: min(100%, 20rem);
     }
 
-    .img-left {
+    .article-media--left,
+    img.img-left {
       float: left;
-      margin: 6px 40px 10px 0 !important;
+      margin: 0.4rem 2rem 1.25rem 0;
     }
 
-    .img-center {
-      float: none;
-      margin: 6px 40px 10px 40px !important;
+    .article-media--right,
+    img.img-right {
+      float: right;
+      margin: 0.4rem 0 1.25rem 2rem;
     }
   }
 }

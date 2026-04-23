@@ -28,7 +28,7 @@ Given these benefits, you may be asking yourself: how can I go about creating on
 
 Whether you’re brand new to the digital learning design field, or you have plenty of digital content creation experience but are in need of inspiration when it comes to designing assessments, we’ve conducted some research into some of the best principles and practices to help you create considered, effective, and high-quality learning assessments.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545139/site-articles/principles-of-good-assessment-design/Principle_01_banner-02_rmxni4.png" alt="Well-design assessments should be aligned with the course learning outcomes" title="Well-design assessments should be aligned with the course learning outcomes" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545139/site-articles/principles-of-good-assessment-design/Principle_01_banner-02_rmxni4.png" alt="Well-design assessments should be aligned with the course learning outcomes" title="Well-design assessments should be aligned with the course learning outcomes" /></figure>
 
 [Good digital assessments](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses) should be integrated into the course design to support learning, and the teaching strategies and learning outcomes must align with the assessment strategies. In other words, the course activities should allow the learner to practise the assessed knowledge and skills. This also allows learners to direct their learning as well as instructors to focus their course elements such as content selection.
 
@@ -58,7 +58,7 @@ Questions to ask yourself:
 
 ---
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_02_banner-03_gex5ty.png" alt="Well-designed assessments should reflect the discipline or field of study" title="Well-designed assessments should reflect the discipline or field of study" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_02_banner-03_gex5ty.png" alt="Well-designed assessments should reflect the discipline or field of study" title="Well-designed assessments should reflect the discipline or field of study" /></figure>
 
 Whether it be in an academic setting, where assessments should [relate directly to the learner’s field of interest](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-assessments), or in a corporate setting, where learners should be provided with the opportunity to practically apply the content and skills required to perform in their roles, a well-designed assessment targets specific skills and competencies for success.
 
@@ -66,7 +66,7 @@ In the end, a well-designed assessment should be practical in nature and reflect
 
 ---
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_03_banner-04_sqxipk.png" alt="Well-designed assessments should be inclusive and accessible" title="Well-designed assessments should be inclusive and accessible" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_03_banner-04_sqxipk.png" alt="Well-designed assessments should be inclusive and accessible" title="Well-designed assessments should be inclusive and accessible" /></figure>
 
 Well-designed assessments keep accessibility in mind. By this, we mean that assessment design should accommodate all learners. In both face-to-face and digital learning, software and tools can be used to assist learners during an assessment period. So, what design decisions can you make to ensure that your assessments are accessible from the get-go?
 
@@ -84,13 +84,13 @@ This ethos is also embedded into the way we design assessments — enabling a ri
 
 ---
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_04_banner-05_sicxnl.png" alt="Well-designed assessments should include both summative and formative assessment types" title="Well-designed assessments should include both summative and formative assessment types" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_04_banner-05_sicxnl.png" alt="Well-designed assessments should include both summative and formative assessment types" title="Well-designed assessments should include both summative and formative assessment types" /></figure>
 
 A high-quality course will include both formative and summative assessments. Formative assessments evaluate a learner’s progress during the learning experience, while summative assessments are placed at the end of a course.
 
 Take a look at the differences and similarities of these different assessment types in the graphic below.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_650/v1667545140/site-articles/principles-of-good-assessment-design/Assessment_types-08_afuall.png" alt="Graphic illustrating the differences and commonalities between formative and summative assessments" title="Formative vs Summative Assessments" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_650/v1667545140/site-articles/principles-of-good-assessment-design/Assessment_types-08_afuall.png" alt="Graphic illustrating the differences and commonalities between formative and summative assessments" title="Formative vs Summative Assessments" /></figure>
 
 A single summative assessment (also known as assessment of learning) completed at the end of a course does not allow the learner to overcome or improve on their inadequacies. They simply show what learning has occurred after some learning time. On the other hand, regular formative assessments (also known as assessment for learning) scattered throughout a course (along with meaningful feedback), provides learners with an understanding of their strengths and weaknesses. This advises and guides their learning. Therefore, course designers and instructors should [include both summative and formative assessments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8929315/) to reap the benefits of both.
 
@@ -111,7 +111,7 @@ Whereas an effective summative assessment could include:
 
 ---
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545141/site-articles/principles-of-good-assessment-design/Principle_05_banner-06_ijasem.png" alt="Well-designed assessments include explicit, accessible and transparent information" title="Well-designed assessments include explicit, accessible and transparent information" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545141/site-articles/principles-of-good-assessment-design/Principle_05_banner-06_ijasem.png" alt="Well-designed assessments include explicit, accessible and transparent information" title="Well-designed assessments include explicit, accessible and transparent information" /></figure>
 
 [All stakeholders](https://warwick.ac.uk/fac/cross_fac/academic-development/assessmentdesign/assessmentdesignprinciples/#:~:text=In%20short%2C%20inclusive%20assessment%20shares,feedback%20is%20individualised%20and%20effective) should receive clear, accurate and consistent information relating to the assessment purpose, methods, procedures, and criteria. Assessments should be transparent to be considered fair. Learners should be provided with clear expectations indicating what is being taught, how they need to demonstrate their learning as well as the criteria used to assess them. This is more important than ever before for digital learning, as many [learners are experiencing online assessments for the first time](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses).
 
@@ -123,7 +123,7 @@ Here are a few examples of how to prepare your learners for various assessments:
 
 ---
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545141/site-articles/principles-of-good-assessment-design/Principle_06_banner-07_rureie.png" alt="Well-design assessments provide timely and meaningful feedback" title="Well-design assessments provide timely and meaningful feedback" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545141/site-articles/principles-of-good-assessment-design/Principle_06_banner-07_rureie.png" alt="Well-design assessments provide timely and meaningful feedback" title="Well-design assessments provide timely and meaningful feedback" /></figure>
 
 Meaningful and actionable feedback can influence learners’ motivation and engagement as well as encourage self-directed learning. Where possible, this feedback should be automatic such as quizzes that are graded immediately. This feedback should not merely correct the learner by providing right/wrong answers but should provide meaningful, qualitative feedback, even if it’s the same feedback regardless of the correct/incorrect answer.
 

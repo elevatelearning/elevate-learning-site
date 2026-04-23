@@ -6,7 +6,7 @@ date: 2021-05-04
 author: Kira Koopman
 ---
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/introduction_uxmmrt.png" alt="Creating a Company Culture of Lifelong Learning" title="Creating a Company Culture of Lifelong Learning" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/introduction_uxmmrt.png" alt="Creating a Company Culture of Lifelong Learning" title="Creating a Company Culture of Lifelong Learning" /></figure>
 
 Most organisations have realised the importance of developing a learning culture — a philosophy and espousing of values that puts employee growth and development at the centre of an employee-centric value proposition and company culture. It’s an approach to learning that encourages individuals to take ownership of their personal and professional development, to learn informally, in the flow of work, and to enrol for as many online courses as they feel is necessary to improve their productivity and performance, without the fear of a clock-watching micromanager limiting their learning time for fear of lost hours.
 
@@ -18,7 +18,7 @@ It sounds idyllic (utopian even), but the reality is that creating a culture of 
 2. Create continuous opportunities to learn.
 3. Build in feedback loops and space for reflection.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/support-self-regulated-learning_woaean.png" alt="Develop Processes That Support Self Regulated Learning" title="Develop Processes That Support Self Regulated Learning" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/support-self-regulated-learning_woaean.png" alt="Develop Processes That Support Self Regulated Learning" title="Develop Processes That Support Self Regulated Learning" /></figure>
 
 Self-regulation is so important to the formation of a culture of informal workplace learning, particularly as remote and dispersed teams become the norm. Why? Because self-regulation helps employees be proactive and self-led in their learning. They are more aware of their skill gaps and better able to plan how they will go about developing these skills. This is particularly necessary for remote workers, as many lack the opportunities for organic, face-to-face learning from senior leaders in the business and other colleagues that may occur in an office, and instead need to set their own work and learning rhythms to ensure they keep growing professionally.
 
@@ -28,11 +28,11 @@ The concept of self-regulation was developed by Albert Bandura, who proposed tha
 
 Self-reflection is thus key to self-regulation because it helps individuals develop the self-awareness to identify the actions or behaviours that need changing or the competencies needed to reach their goals. Barry Zimmerman, an educational psychologist, focused on self-regulation as it applies to learning. Zimmerman’s model indicates three key phases for self-regulated learning that emphasises planning, performing and reflecting.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/zimmermans-model-for-self-regulated-learning_kcvkqo.jpg" alt="Zimmermans 3 Phase Model For Self Regulated Learning" title="Zimmermans 3 Phase Model For Self Regulated Learning" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/zimmermans-model-for-self-regulated-learning_kcvkqo.jpg" alt="Zimmermans 3 Phase Model For Self Regulated Learning" title="Zimmermans 3 Phase Model For Self Regulated Learning" /></figure>
 
 Creating the processes and opportunities for employees to intentionally plan and reflect on their performance, development and goals will assist in creating a team of self-regulated learners. Once self-regulated behaviours become habitual, creating a learning culture is much more attainable, whether your team is based in an office or working remotely.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429682/site-articles/creating-a-company-culture-of-lifelong-learning/create-continuous-opportunities-to-learn_l4nawx.png" alt="Create Continuous Opportunities To Learn" title="Create Continuous Opportunities To Learn" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429682/site-articles/creating-a-company-culture-of-lifelong-learning/create-continuous-opportunities-to-learn_l4nawx.png" alt="Create Continuous Opportunities To Learn" title="Create Continuous Opportunities To Learn" /></figure>
 
 [IBM research](https://www.ibm.com/training/pdfs/IBMTraining-TheValueofTraining.pdf) shows that 84% of employees and companies in the Best Performing Organisations category receive professional training. An important step to creating a culture of learning is to create continuous opportunities to learn. This can be through online programmes, accredited courses, mentorships, forums or communities of practice or feedback loops.
 
@@ -52,21 +52,21 @@ Additionally, designing learning and development opportunities that intrinsicall
 
 When an individual can see how a learning experience will benefit them, they are likely to be more engaged in the learning experience. Whether the learning is formal or informal, encourage employees to reflect on their learning and, where possible, provide them opportunities to implement their learning within the workplace. This will encourage the transfer of new skills and thinking into your organisation, and strengthen your learning culture.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429682/site-articles/creating-a-company-culture-of-lifelong-learning/feedback-loops-and-space-for-reflection_wnxypp.png" alt="Build In Feedback Loops And Space For Reflection" title="Build In Feedback Loops And Space For Reflection" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429682/site-articles/creating-a-company-culture-of-lifelong-learning/feedback-loops-and-space-for-reflection_wnxypp.png" alt="Build In Feedback Loops And Space For Reflection" title="Build In Feedback Loops And Space For Reflection" /></figure>
 
 Constructive, in-the-moment-feedback is key to learning, and opportunities for giving feedback shouldn’t be limited to formal training programmes alone. There are multiple opportunities in the work day to acknowledge impressive performance or suggest how performance can be improved. However, if the focus of the feedback is on scrutinising someone’s error without finding the lessons in it, the learning will not be successful or effective.
 
 ### Here are a few ways to give constructive feedback:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/publicly-recognize-employees-successes_mttcp2.jpg" alt="Publicly Recognize Employees Successes" title="Publicly Recognize Employees Successes" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/publicly-recognize-employees-successes_mttcp2.jpg" alt="Publicly Recognize Employees Successes" title="Publicly Recognize Employees Successes" /></figure>
 
 Use positive reinforcement to recognise employees’ successes. This not only contributes to motivating the employee, but creates a positive workplace culture and sets a standard for other employees to learn from and emulate.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/provide-incident-focused-feedback_nmqhoh.jpg" alt="Provide Incident Focused Feedback" title="Provide Incident Focused Feedback" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/provide-incident-focused-feedback_nmqhoh.jpg" alt="Provide Incident Focused Feedback" title="Provide Incident Focused Feedback" /></figure>
 
 When providing feedback on an error or poor performance, rather than focusing on the person’s character or personality, focus on the incident itself and practical steps to either rectify the issue or to mitigate against future incidents.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429682/site-articles/creating-a-company-culture-of-lifelong-learning/allow-error-recognition-and-self-explanation_e8hxj6.jpg" alt="Allow Error Recognition And Self Explanation" title="Allow Error Recognition And Self Explanation" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429682/site-articles/creating-a-company-culture-of-lifelong-learning/allow-error-recognition-and-self-explanation_e8hxj6.jpg" alt="Allow Error Recognition And Self Explanation" title="Allow Error Recognition And Self Explanation" /></figure>
 
 Remember that learning often comes through mistakes and making sure we are able to understand where and why we went wrong. Encourage the employee to recognise their error and explain from their perspective what went wrong, and what can be done in future to improve. This will show how they have learned from their error.
 
