@@ -27,21 +27,21 @@ When it comes to digital learning, the term ‘accessible’ refers to content d
 Let’s paint a picture of a typical online learning experience to understand better what this means.
 Imagine your learner, Alex, starting one of the courses you have created online. Typically, they would have to work through a few videos of a narrator talking through critical concepts of the course. They might get a few paragraphs of text and some example images to look through, and finally, the course might pose a series of questions by, for example, asking Alex to select green for true statements and red for false statements.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532590/site-articles/what-defines-accessible-digital-learning/Alex_1-01_prlfjm.jpg" alt="A student, Alex, taking a online course and being asked to select green for true statements and red for false statements." title="Meet Alex" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532590/site-articles/what-defines-accessible-digital-learning/Alex_1-01_prlfjm.jpg" alt="A student, Alex, taking a online course and being asked to select green for true statements and red for false statements." title="Meet Alex" /></figure>
 
 The above explanation unpacks a basic online learning experience, but what might it look like if Alex were differently abled?
 
 If Alex had a hearing difficulty, how would they be able to access the information from the audio narration? Are there closed captions or a script available that they could follow? If not, they will miss out on crucial information they need to complete the course successfully.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532587/site-articles/what-defines-accessible-digital-learning/Subtitles_alttext-02_lphcw9.jpg" alt="Online video with captions and online image with alternative text." title="Captions and Alt Text" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532587/site-articles/what-defines-accessible-digital-learning/Subtitles_alttext-02_lphcw9.jpg" alt="Online video with captions and online image with alternative text." title="Captions and Alt Text" /></figure>
 
 Another example to consider is if Alex were visually impaired. In this case, Alex would be able to hear the audio narration, but would they be able to use a standard screen reading tool to navigate through the images in the course? And would they be able to complete the activity posed to them at the end of the course?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418627/site-articles/what-defines-accessible-digital-learning/Alt_text-08_xnigsa.jpg" alt="Online course illustrating the use of a screen reading tool with alternative text" title="Screen Readers and Alt Text" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418627/site-articles/what-defines-accessible-digital-learning/Alt_text-08_xnigsa.jpg" alt="Online course illustrating the use of a screen reading tool with alternative text" title="Screen Readers and Alt Text" /></figure>
 
 These two examples might be the first that comes to mind when considering accessibility. Still, the breadth and complexity of barriers to learning are extensive — and must be considered. Take, for instance, the assessment activity we used as an example at the end of the course. What if Alex could see and hear all the content but struggled with colour blindness? Alex would be unable to distinguish the red and green options from each other and, therefore, unable to complete the final activity of the course — potentially failing their learning journey.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418626/site-articles/what-defines-accessible-digital-learning/Bnw_graph-05_jnphtu.jpg" alt="Scatter plot graph instructing a learner to circle the incorrect data point in red" title="Colour Blindness" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418626/site-articles/what-defines-accessible-digital-learning/Bnw_graph-05_jnphtu.jpg" alt="Scatter plot graph instructing a learner to circle the incorrect data point in red" title="Colour Blindness" /></figure>
 
 # Creating a Truly Accessible Learning Experience
 
@@ -64,15 +64,15 @@ Each learner should be able to recognise all the information delivered to them t
 
 Returning to our learner, Alex, we’ve already discussed using transcripts and subtitling for any learner who may be hard of hearing. Beyond video-based content, any course images (including graphics and buttons) should contain alternative text (more commonly known as alt text), which a screen reader can read for visually impaired participants. Beyond physical ability, using alt text can also benefit those learners whose access to a secure internet connection is not always guaranteed.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532587/site-articles/what-defines-accessible-digital-learning/Subtitles_alttext-02_lphcw9.jpg" alt="Video captions and alternative text" title="Video Captions and Alt Text" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532587/site-articles/what-defines-accessible-digital-learning/Subtitles_alttext-02_lphcw9.jpg" alt="Video captions and alternative text" title="Video Captions and Alt Text" /></figure>
 
 Colour is another critical element to ensure that your learning experience is perceivable. If Alex were colour blind, and during the assessment activity was asked to distinguish between data in a graph. The graphic below provides a simple illustration of various colour blindness spectrums and how poor accessibility design choices might impact a learner:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532589/site-articles/what-defines-accessible-digital-learning/Colourblind_option1-03_tsi3ze.jpg" alt="Graphs depicting how variations of colour blindness affect learning experiences" title="Colour Blindness Graphs" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532589/site-articles/what-defines-accessible-digital-learning/Colourblind_option1-03_tsi3ze.jpg" alt="Graphs depicting how variations of colour blindness affect learning experiences" title="Colour Blindness Graphs" /></figure>
 
 Several tools, such as [this colour contrast and analyser](https://contrast-ratio.com/), can help you improve your course’s colours by finding more suitable contrasts to meet accessibility standards. Another workaround is to include patterns, text or iconography so as not to rely on colour alone. The graphic below illustrates an accessibility-friendly version of the original graph.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418627/site-articles/what-defines-accessible-digital-learning/Bar_graph-07_qhojbg.jpg" alt="Bar graph illustrating the use of patterns that distinguish data points instead of relying on colour alone" title="Pattern Graph" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418627/site-articles/what-defines-accessible-digital-learning/Bar_graph-07_qhojbg.jpg" alt="Bar graph illustrating the use of patterns that distinguish data points instead of relying on colour alone" title="Pattern Graph" /></figure>
 
 ## 2. Your Learning Experience Should Be Operable
 

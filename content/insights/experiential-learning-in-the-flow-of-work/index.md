@@ -12,13 +12,13 @@ Dewey (1938) specifically looked at learning as a continuous flow of experiences
 
 Combined, Kolb theorised and proposed a framework for experiential learning that has proliferated the internet and most training and development programmes as a prerequisite for determining the success of a learning programme. Its popularity is due, in part, to the fact that it merges these theories into a neat and simple framework. While the learning process for individuals is complex, Kolb’s model seeks to combine cognitive and behavioural science to more holistically incorporate an individual’s experience, environment and emotional processing abilities to explain how we learn.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429724/site-articles/experiential-learning-in-the-flow-of-work/experiential-learning_lmavbt.jpg" alt="Experiential Learning" title="Experiential Learning" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429724/site-articles/experiential-learning-in-the-flow-of-work/experiential-learning_lmavbt.jpg" alt="Experiential Learning" title="Experiential Learning" /></figure>
 
 It goes without saying that the extent to which our personal contexts play a role in the ways in which we acquire and assimilate knowledge is complex, but it is worthwhile unpacking the continuums he proposes to understand how to better design learning experiences that are personalised, goal-oriented and user-centered.
 
 ## Kolb’s Experiential Learning Model
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429724/site-articles/experiential-learning-in-the-flow-of-work/experiential-learning-model_mjhr1h.jpg" alt="Experiential Learning Model" title="Experiential Learning Model" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429724/site-articles/experiential-learning-in-the-flow-of-work/experiential-learning-model_mjhr1h.jpg" alt="Experiential Learning Model" title="Experiential Learning Model" /></figure>
 
 Kolb developed a cyclical continuum through which learners feel, watch, think and do in order for effective learning to take place. This approach to learning sees the integration and embedding of knowledge, competencies, and skills habitually and continuously into the learners’ everyday contexts — much like Bersin’s learning in the flow of work. In order for learning or experiences to transfer to understanding, we must go through the process of grasping and transforming experiences through four phases: Concrete Experience (Feel), Reflective Observation (See), Abstract Conceptualisation (Think) and Active Experimentation (Do).
 
@@ -44,7 +44,7 @@ Collectively, these four phases result in the transformation of experience into 
 
 Another dimension to Kolb’s theory is that of learning styles. While the popularised idea of learning styles aligned to our physical senses is much debated, Kolb makes the case for learning styles that speak to patterned ways of being — and that we each have a preferred phase of the four.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429724/site-articles/experiential-learning-in-the-flow-of-work/understanding-learning-preferences_bjpu2q.jpg" alt="Understanding Learning Preferences" title="Understanding Learning Preferences" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652429724/site-articles/experiential-learning-in-the-flow-of-work/understanding-learning-preferences_bjpu2q.jpg" alt="Understanding Learning Preferences" title="Understanding Learning Preferences" /></figure>
 
 Kolb suggests that these preferences build on Jung’s personality theory, which emphasises the ways in which we interact and engage with the world. Whether the naming conventions or simplification of these preferences is necessarily right or wrong is not the primary objective of this post, and much like the ways in which Meyers Briggs personality tests and the introversion/extraversion debates continue, their popularity remains because of our inherent nature to box ourselves according to identifiable characteristics or traits. Either way, we naturally develop individual modes of learning through our experience of it, engaging with new information or knowledge, processing and applying that information and acquiring or embedding new competencies.
 

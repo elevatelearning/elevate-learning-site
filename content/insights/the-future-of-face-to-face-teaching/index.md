@@ -18,13 +18,13 @@ So what do our learners need and want? I think our learners want learning that i
 
 Here are four predictions for the future of teaching:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430488/site-articles/the-future-of-face-to-face-teaching/the-future-of-teaching-is-personalised-learning_e3urhz.png" alt="The Future Of Teaching Is Prsonalised Learning" title="The Future Of Teaching Is Prsonalised Learning" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430488/site-articles/the-future-of-face-to-face-teaching/the-future-of-teaching-is-personalised-learning_e3urhz.png" alt="The Future Of Teaching Is Prsonalised Learning" title="The Future Of Teaching Is Prsonalised Learning" /></figure>
 
 One big thing that experts in learning are talking about is the move to more personalised learning. In the school system, this is challenging and it’s something that we need to keep exploring. A part of personalised learning is creating more learner autonomy and providing the individual learner with the ability to choose their next step.
 
 A small way you could start to implement more personalised learning in your classroom is by allowing the learners to give you feedback about their learning in your subject for you to implement where you can. You could also look for topics or sections of the curriculum where they could work at their own pace, or in their own order of preference. Additionally, including contextually relevant examples of concepts or new knowledge, or providing them with opportunities to reflect on how the content relates to their personal experiences, helps them to make a connection between theory and practice.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430488/site-articles/the-future-of-face-to-face-teaching/the-future-of-teaching-is-adaptive-technology_efjkzv.png" alt="The Future Of Teaching Is Adaptive Technology" title="The Future Of Teaching Is Adaptive Technology" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430488/site-articles/the-future-of-face-to-face-teaching/the-future-of-teaching-is-adaptive-technology_efjkzv.png" alt="The Future Of Teaching Is Adaptive Technology" title="The Future Of Teaching Is Adaptive Technology" /></figure>
 
 People experience life as a whole. As teachers, we need to consider the way we teach in relation to the rest of our learners’ lives. Teaching should change with the learner. As we move forward as a society with technology, we need to stay open to change too. If technologies like Artificial Intelligence could be a vehicle for making learning more engaging, we need to become familiar with it and learn the necessary systems and algorithms to meet our learners where they are.
 
@@ -32,7 +32,7 @@ One institution that is offering AI as part of its curriculum is HaileyburyX, ba
 
 While we may be a while away from using AI in our classrooms here in South Africa, it also makes sense to keep an eye on the technology trends that are informing the way we design our classrooms, curricula, and instruction for the future.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430488/site-articles/the-future-of-face-to-face-teaching/the-future-of-teaching-is-digital_ad23m4.png" alt="The Future Of Teaching Is Digital" title="The Future Of Teaching Is Digital" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430488/site-articles/the-future-of-face-to-face-teaching/the-future-of-teaching-is-digital_ad23m4.png" alt="The Future Of Teaching Is Digital" title="The Future Of Teaching Is Digital" /></figure>
 
 With a continued need to present lessons online (at least some of the time), we need to rethink our approach to online teaching. We can't simply move lessons designed to take place face-to-face into an online space (and blame Zoom when our learners are not engaged). It’s not a sustainable way to teach or learn. The latest research in neuroscience and our understanding of how the brain works shows that learning doesn’t work in marathon sessions, but that we should be using spaced repetition to retain information.
 
@@ -42,7 +42,7 @@ There is also the idea that learning online is lonely. But part of our solution 
 
 To create a more interactive classroom you could introduce polls using Google Forms or Menti.com, build engaging quizzes or games using Kahoot, or provide opportunities for learners to work together on problems or challenges in breakaway rooms, providing regular feedback on their learning experiences.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430488/site-articles/the-future-of-face-to-face-teaching/the-future-of-teaching-is-learner-agency_fw6bqt.png" alt="The Future Of Teaching Is Learner Agency" title="The Future Of Teaching Is Learner Agency" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430488/site-articles/the-future-of-face-to-face-teaching/the-future-of-teaching-is-learner-agency_fw6bqt.png" alt="The Future Of Teaching Is Learner Agency" title="The Future Of Teaching Is Learner Agency" /></figure>
 
 We want learners to be accountable for their learning, but we need to ask ourselves if we are giving them permission to do so. Are they allowed to take accountability for their learning and do we trust them enough? Dr Jane Bozarth says in [this article on instructional design](https://learningsolutionsmag.com/articles/688/nuts-and-bolts-let-the-learners-hold-the-spoon), oftentimes learners are seen as wanting to be spoon-fed, but she challenges the reader by ending the article “Maybe it isn’t that learners want to be spoon-fed. Maybe it’s that we won’t let them hold the spoon.” We need to consider how much of the learning we are controlling and move to become better facilitators than lecturers.
 

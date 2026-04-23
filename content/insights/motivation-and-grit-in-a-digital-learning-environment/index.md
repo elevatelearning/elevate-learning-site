@@ -12,13 +12,13 @@ This idea of motivation as a deep-rooted, non-cognitive trait has long been cons
 
 There are two main classifications of motivation, namely intrinsic motivation and extrinsic motivation (El-Seoud, Mohamed & Taj-Eddin, 2016). Intrinsic motivation occurs when an individual performs a task for their own inherent satisfaction. Extrinsic motivation occurs when an individual performs a task in order to receive an immediate external gain externally. Characteristics associated with intrinsic motivation are independence and self-direction which is why intrinsic motivation is such an important component in online learners.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_1280/v1655978131/site-articles/motivation-and-grit-in-a-digital-learning-environment/Intrinscic_and_Extrinsic_Motivation_msw6ay.jpg" alt="This graphic illustrates the differences between intrinsic motivation and extrinsic motivation." title="Intrinsic Motivation vs. Extrinsic Motivation" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_1280/v1655978131/site-articles/motivation-and-grit-in-a-digital-learning-environment/Intrinscic_and_Extrinsic_Motivation_msw6ay.jpg" alt="This graphic illustrates the differences between intrinsic motivation and extrinsic motivation." title="Intrinsic Motivation vs. Extrinsic Motivation" /></figure>
 
 </br>
 
 In fact, findings drawn from comparative studies between on-campus learners and online learners suggest that online learners are naturally more intrinsically motivated when compared to their on-campus peers, both at a postgraduate and undergraduate level (Harnett, 2016). This is because the digital learning environment requires learners to display characteristics similar to those needed to be intrinsically motivated - such as self-regulation and curiosity - in order to have a successful learning experience. Interestingly, online learning experience design, when done well, strategically fosters intrinsic motivation due to the fact that it provides opportunities for curiosity, challenge, fantasy and novelty.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656404775/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_194_nqj1ov.png" alt="This graphic is a quote." title="Quote Graphic" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656404775/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_194_nqj1ov.png" alt="This graphic is a quote." title="Quote Graphic" /></figure>
 
 <br> This is why motivation plays such a critical role in the design and delivery of digital learning experiences, and it’s where the science and art of learning intersect.
 
@@ -26,7 +26,7 @@ In fact, findings drawn from comparative studies between on-campus learners and 
 
 There are two prominent perspectives when discussing motivation to learn in an online environment. The first perspective focuses on the design of the digital learning environment in order to elicit student motivation. The second perspective looks at motivation as a trait of the learner.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655978132/site-articles/motivation-and-grit-in-a-digital-learning-environment/Motivation_as_a_Trait_of_the_Learner_lyxukf.jpg" alt="This graphic illustrates the concepts of learner motivation" title="Icon graphic" class="ime-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655978132/site-articles/motivation-and-grit-in-a-digital-learning-environment/Motivation_as_a_Trait_of_the_Learner_lyxukf.jpg" alt="This graphic illustrates the concepts of learner motivation" title="Icon graphic" /></figure>
 
 <br> We’ve covered a range of tactics for designing a learning environment that keeps learners engaged and motivated in previous articles, including [gamification](https://elevatelearning.org/insights/using-gamification-to-motivate-learning/), [microlearning](https://elevatelearning.org/insights/the-benefits-of-microlearning-to-achieve-learning-goals/), and creating opportunities for learners to [become better learners](https://elevatelearning.org/insights/how-to-become-a-better-learner/). Frameworks such as those we outline in our [Learning Experience Design Essentials course](https://lxd.elevatelearning.org/), and trends in user experience and user interface design, also help learning designers create more intrinsically motivating learning environments and learning experiences that tap into the motivation of a learner.
 
@@ -46,19 +46,19 @@ In her 2007 research and subsequent [2013 TedTalk](https://www.ted.com/talks/ang
 
 Here are three ways in which grit can be developed through the learning design process:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656396566/site-articles/motivation-and-grit-in-a-digital-learning-environment/Suptopic_1_vadykx.png" alt="This graphic illustrates the concept of creating relevant and challenging activities" title="Create relevant, challenging activities" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656396566/site-articles/motivation-and-grit-in-a-digital-learning-environment/Suptopic_1_vadykx.png" alt="This graphic illustrates the concept of creating relevant and challenging activities" title="Create relevant, challenging activities" /></figure>
 
 </br> Deliberate practice is the intentional and sustained efforts to work on developing new competencies. It’s not just practicing the same repetitive exercises over and over, but rather, it’s the steady improvement and extension of a range of skills (Ericsson, Prietula & Cokely, 2007). As learning designers, if we want learners to develop both grit and new competencies, we have to create opportunities for them to put their new or emerging skills into practice.
 
 You can create opportunities for deliberate practice simply through prompts or pause and reflect questions, or by sharing templates or activities and exercises for learners to complete offline.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656404423/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_193_irfnln.png" alt="This graphic illustrates the concept of creating opportunities for continuous feedback" title="Create opportunities for continuous feedback" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656404423/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_193_irfnln.png" alt="This graphic illustrates the concept of creating opportunities for continuous feedback" title="Create opportunities for continuous feedback" /></figure>
 
 </br> Allowing students to learn from their mistakes is fundamental to the development of grit. While delivering a course means you’re not always able to provide individualised coaching, there are ways to share feedback.
 
 You can create opportunities to provide feedback by implementing social learning elements in your learning environment. This could be through encouraging learning buddies, creating discussion boards or groups for sharing ideas, activities or feedback. Additionally, sharing model answers and detailed explainers or completed templates can also guide and help learners to learn from their deliberate practice activities.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656404418/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_192_yzy0xr.png" alt="This graphic illustrates the concept of creating clear, scaffolded learning goals" title="Create clear, scaffolded learning goals" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656404418/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_192_yzy0xr.png" alt="This graphic illustrates the concept of creating clear, scaffolded learning goals" title="Create clear, scaffolded learning goals" /></figure>
 
 </br> Learners can sometimes feel overwhelmed by a digital learning experience, especially if they are not used to learning online or if the subject matter is technically challenging. In structuring learning into chunks, with clear direction as to what is expected of the learner at each stage, learning designers can help to manage cognitive overload and allow the learners to focus on the learning to be done.
 
@@ -66,7 +66,7 @@ You can do this by creating competence-based learning outcomes, structuring your
 
 ## Motivation & Grit: A Recipe for Digital Learning Success
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1657011041/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_203_ic5314.png" alt="This is a quote graphic" title="Quote graphic" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1657011041/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_203_ic5314.png" alt="This is a quote graphic" title="Quote graphic" /></figure>
 
 <br>Needless to say, motivation and grit in learning are crucial for a successful learning experience, and it’s important for learning designers to understand the science and art of designing digital learning experiences that breed motivation and help learners to stay the course.
 

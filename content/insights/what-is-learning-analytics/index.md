@@ -20,11 +20,11 @@ While learning data can be sourced and tracked across a range of learning manage
 
 # Three Elements to Analyse
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430593/site-articles/what-is-learning-analytics/three-elements-to-analyse_bywhql.jpg" alt="Three Elements to Analyse" title="Three Elements to Analyse" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430593/site-articles/what-is-learning-analytics/three-elements-to-analyse_bywhql.jpg" alt="Three Elements to Analyse" title="Three Elements to Analyse" /></figure>
 
 <hr>
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430593/site-articles/what-is-learning-analytics/the-learner_oh889x.png" alt="The Learner" title="The Learner" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430593/site-articles/what-is-learning-analytics/the-learner_oh889x.png" alt="The Learner" title="The Learner" /></figure>
 
 ## 1. The Learner
 
@@ -43,7 +43,7 @@ Then, upon completion of the learning experience, you should ask:
 - Do they have, and can they execute, the necessary capabilities and skills that the learning experience aimed to develop?
 - Has their behaviour changed in some way?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430593/site-articles/what-is-learning-analytics/the-experience_oqbsxj.png" alt="" title="" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430593/site-articles/what-is-learning-analytics/the-experience_oqbsxj.png" alt="" title="" /></figure>
 
 ## 2. The Experience
 
@@ -57,7 +57,7 @@ Ask the following questions when measuring the analytics of the learning experie
 - Did they drop off before the end of the course?
 - Did they click any external links to a definition, help or extra learning? This will provide indicators on where the learners struggled and what they enjoyed and found interesting.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430593/site-articles/what-is-learning-analytics/the-strategy_mjw2fe.png" alt="The Strategy" title="The Strategy" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430593/site-articles/what-is-learning-analytics/the-strategy_mjw2fe.png" alt="The Strategy" title="The Strategy" /></figure>
 
 ## 3. The Strategy
 

@@ -18,19 +18,19 @@ This is where we can draw on the principles of monitoring and evaluation and a f
 
 Monitoring and Evaluation is an approach predominantly used to measure the effectiveness of programmes or initiatives in the development sector with the intention of having maximum impact. The principles of this approach can also be translated to measuring online learning experiences:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/clear-objectives-and-goals_uqcoak.png" alt="Clear Objectives And Goals" title="Clear Objectives And Goals" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/clear-objectives-and-goals_uqcoak.png" alt="Clear Objectives And Goals" title="Clear Objectives And Goals" /></figure>
 
 Set clear objectives and goals for what success looks like, and which criteria to measure the programme’s progress from beginning to end.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/collect-and-analyse-data_qtni7s.png" alt="Collect And Analyse Data" title="Collect And Analyse Data" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/collect-and-analyse-data_qtni7s.png" alt="Collect And Analyse Data" title="Collect And Analyse Data" /></figure>
 
 Collect and analyse data at the beginning of the programme to serve as your baseline. From then, regularly collect data relevant to the programme’s goals and that indicate the level of its effectiveness.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/make-changes_smxbfs.png" alt="Make Changes" title="Make Changes" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/make-changes_smxbfs.png" alt="Make Changes" title="Make Changes" /></figure>
 
 Upon analysis of the data, make changes and iterate throughout the programme implementation to improve the programme’s impact.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/compare-findings_j1ijsg.png" alt="Compare Findings" title="Compare Findings" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/compare-findings_j1ijsg.png" alt="Compare Findings" title="Compare Findings" /></figure>
 
 At the end of the programme, compare your findings with the data collected at the beginning of the programme to determine whether there is a change in behaviour or competences and what can be improved going forward.
 
@@ -38,11 +38,11 @@ With a monitoring and evaluation mindset, you’ll be able to more effectively i
 
 ## What are learning evaluations?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/kirkpatricks-model_abvqqy.png" alt="Kirkpatrick's Model" title="Kirkpatrick's Model" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/kirkpatricks-model_abvqqy.png" alt="Kirkpatrick's Model" title="Kirkpatrick's Model" /></figure>
 
 Learning evaluations are the criteria you will analyse to determine the success of your learning experiences. There are a few theorists who have developed different learning evaluation models, which suggest key evaluation criteria relating to the micro-level (the learning experience itself) as well as the macro-level (its impact on your business and even society). For example, Kirkpatrick’s Model founded by training expert, Donald Kirkpatrick, indicates that a learning experience should be evaluated across the following four levels:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/kaufmans-five-levels_f6a3ny.png" alt="Kaufman's Five Levels" title="Kaufman's Five Levels" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/kaufmans-five-levels_f6a3ny.png" alt="Kaufman's Five Levels" title="Kaufman's Five Levels" /></figure>
 
 Roger Kaufman, an expert in evaluation and needs assessment, expanded upon Kirkpatrick’s model to include an evaluation of a learning experiences’ societal impact in what is termed Kaufman’s Five Levels of Evaluation.
 
@@ -54,23 +54,23 @@ Knowing your general evaluation criteria introduced above is a good start, but y
 
 Begin with tracking the achievement of the learning objectives. At the start of the learning design process, you should have decided on objectives and competences that learners would attain through the learning experience. These not only help to clarify the learning and motivate the learner towards specific goals, but are also useful for measuring whether the learning experience achieved the objectives or not. For tips on how to create a strategy for your online learning experience and set learning objectives, [have a look at this article](https://www.elevatelearning.org/insights/how-to-develop-a-learning-strategy/).
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/other-metrics-for-evaluation_kjy5do.png" alt="Other Metrics For Evaluation" title="Other Metrics For Evaluation" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/other-metrics-for-evaluation_kjy5do.png" alt="Other Metrics For Evaluation" title="Other Metrics For Evaluation" /></figure>
 
 Other metrics for evaluation include:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_120/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/conduct-assessments_znpr88.png" alt="Conduct Assessments" title="Conduct Assessments" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_120/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/conduct-assessments_znpr88.png" alt="Conduct Assessments" title="Conduct Assessments" /></figure>
 
 **CONDUCT ASSESSMENTS:** Assess your employees’ capabilities and competencies before and after the training through simple baseline surveys and knowledge checks to determine whether there has been any development.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_120/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/track-engagement_ejiuen.png" alt="Track Engagement" title="Track Engagement" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_120/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/track-engagement_ejiuen.png" alt="Track Engagement" title="Track Engagement" /></figure>
 
 **TRACK ENGAGEMENT:** Tracking course completion and the grades achieved on individual assessments as well as the course as a whole, as well as learner’s engagement on the course through clicks, time spent, contribution to discussion forums and liking or sharing of content will help determine the success of your course.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_120/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/measure-results_grruzo.png" alt="Measure Results" title="Measure Results" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_120/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/measure-results_grruzo.png" alt="Measure Results" title="Measure Results" /></figure>
 
 **MEASURE RESULTS:** Observing an increase or decrease in grades and determining what prompted this change will assist in understanding whether content and your learner’s experience of the content has been impactful, whether there are knowledge gaps based on their understanding or on the course design.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_120/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/analysing-data_zl89v1.png" alt="Analysing Data" title="Analysing Data" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_120/v1652430232/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/analysing-data_zl89v1.png" alt="Analysing Data" title="Analysing Data" /></figure>
 
 **ANALYSE DATA:** Analysing data from the leaderboards as well as course levels, badges and rewards achieved in gamified learning experiences also contributes to the measurement of impact of a course.
 

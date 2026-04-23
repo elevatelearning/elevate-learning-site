@@ -14,7 +14,7 @@ Digital doesn't mean simply delivering the same face-to-face workshop virtually;
 
 Here are five reasons why you should create Digital Learning Experiences as you plan your next orientation, training manual, course, or virtual masterclass, or if you’re already onboard, how to convince your Board, Finance Team or other stakeholders hesitant to ‘go online’.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652429846/site-articles/five-reasons-why-you-should-invest-in-digital-learning/five-reasons-why-you-should-create_c4aeki.png" alt="Five Reasons Why You Should Create Digital Learning Experiences" title="Five Reasons Why You Should Create Digital Learning Experiences" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652429846/site-articles/five-reasons-why-you-should-invest-in-digital-learning/five-reasons-why-you-should-create_c4aeki.png" alt="Five Reasons Why You Should Create Digital Learning Experiences" title="Five Reasons Why You Should Create Digital Learning Experiences" /></figure>
 
 ### 1) Digital is Scalable
 
@@ -24,7 +24,7 @@ This level of access is important because it highlights how the internet offers 
 
 Because digital learning can withstand growing numbers without the accompanying growing budget, you can reach more people more easily. Coupled with increasing accessibility to mobile-friendly online lessons and interactive content, whether your learners are on the road, working remotely or even internationally, you can be assured of the consistency of training at scale.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652429846/site-articles/five-reasons-why-you-should-invest-in-digital-learning/annual-digital-trends-report_fkdpqb.png" alt="Digital 2020 Global Overview Report" title="Digital 2020 Global Overview Report" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652429846/site-articles/five-reasons-why-you-should-invest-in-digital-learning/annual-digital-trends-report_fkdpqb.png" alt="Digital 2020 Global Overview Report" title="Digital 2020 Global Overview Report" /></figure>
 
 > wearesocial and Hootsuite release an <a href="https://datareportal.com/reports/digital-2020-global-digital-overview" rel="noopener nofollow">annual digital trends report</a> which provides insightful global digital trends data and statistics.
 
@@ -42,7 +42,7 @@ The aim of digital LXD is to create resource-efficient learning experiences that
 
 In the same global digital trends, daily time spent online puts South Africa in second place at 9 hours and 22 minutes per day — almost 2½ hours above the global average. Meeting learners where they are is a critical aspect of the learning experience design process, and if they’re online, then your resources, energy and budget should ideally mirror that orientation.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652429846/site-articles/five-reasons-why-you-should-invest-in-digital-learning/time-per-day-spent-using-the-internet_zv7pr5.png" alt="Time Per Day Spent Using The Internet" title="Time Per Day Spent Using The Internet" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652429846/site-articles/five-reasons-why-you-should-invest-in-digital-learning/time-per-day-spent-using-the-internet_zv7pr5.png" alt="Time Per Day Spent Using The Internet" title="Time Per Day Spent Using The Internet" /></figure>
 
 Digital solves both time and financial constraints that traditional learning and development interventions pose, whilst also encouraging self-paced, personalised learning. In merging your learners’ online and offline worlds through interactive and meaningful learning experiences, you’ll create unique opportunities to capitalise on your development interventions, saving you both time and money.
 

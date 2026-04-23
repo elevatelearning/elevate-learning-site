@@ -8,7 +8,7 @@ author: Kira Koopman
 
 **Using competence-based LXD to meet your strategic objectives.**
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_700/v1652430179/site-articles/how-to-develop-a-learning-strategy/develop-a-learning-strategy-workflow_xwksl6.jpg" alt="How To Develop A Learning Strategy" title="How To Develop A Learning Strategy" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_700/v1652430179/site-articles/how-to-develop-a-learning-strategy/develop-a-learning-strategy-workflow_xwksl6.jpg" alt="How To Develop A Learning Strategy" title="How To Develop A Learning Strategy" /></figure>
 
 Most learning and development teams are the first to feel the brunt of budget cuts, often cited as ‘nice-to-have’ rather than strategic enablers of your organisational strategy. There are plenty of reasons why learning teams have played in the shadows in the past. Sometimes it’s because there isn’t always a tangible link between the training and an organisation’s bottom line, or there are insufficient data points to measure the learning ROI. Or it’s because we’re more focused on measuring the effectiveness of a facilitator than the impact of the learning interventions, and post-workshop feedback forms get lost almost as soon as the last of the snacks has been cleared.
 
@@ -16,7 +16,7 @@ As you may have read in our previous article on <a href="/insights/five-reasons-
 
 At Elevate we use a 4-phase approach to designing and developing learning strategies that incorporates LXD to design and develop content, digital and blended delivery methods, and a variety of assessment tools to measure success.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430179/site-articles/how-to-develop-a-learning-strategy/four-phase-approach-to-designing-learning-strategies_d6v3or.jpg" alt="Four Phase Approach" title="Four Phase Approach" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430179/site-articles/how-to-develop-a-learning-strategy/four-phase-approach-to-designing-learning-strategies_d6v3or.jpg" alt="Four Phase Approach" title="Four Phase Approach" /></figure>
 
 In this article, we’ll explore this approach to aligning process and delivery to ensure your learning and development strategy meets your organisational objectives.
 
@@ -24,7 +24,7 @@ In this article, we’ll explore this approach to aligning process and delivery 
 
 > What are your organisational, personal or professional goals?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_200/v1652430179/site-articles/how-to-develop-a-learning-strategy/strategy_x14tpk.png" alt="Strategy" title="Strategy" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_200/v1652430179/site-articles/how-to-develop-a-learning-strategy/strategy_x14tpk.png" alt="Strategy" title="Strategy" /></figure>
 
 The first step in designing learning experiences that align to your organisational strategy is to identify the strategic goals and gaps that exist in your team’s knowledge, abilities, skills, behaviour or attitude that are preventing them from achieving those strategic goals.<br><br>One of the key characteristics of the Learning Experience Design process is that it’s goal-oriented. Knowing what organisational success looks like is essential to designing a learning and development strategy that intentionally plugs the gaps, and which achieves both personal, professional and organisational goals. For adult learners in particular, understanding the ‘WHY’ of the learning intervention (or any task or activity for that matter) is essential for participant buy-in and for sustaining motivation.<br><br>The LXD process is cyclical in nature, made up of a continuous loop of design, iteration and measurement. It requires an agile, flexible approach to curriculum and programme design that starts with deciding what the educational experience aims to provide. By starting with the end in mind, your learning and development strategy becomes a living, breathing enabler of your overarching organisational strategy, regardless of the delivery mechanism.
 
@@ -32,7 +32,7 @@ The first step in designing learning experiences that align to your organisation
 
 > What are the key competencies needed to achieve your personal, professional and organisational goals?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_200/v1652430179/site-articles/how-to-develop-a-learning-strategy/competencies_af7udt.png" alt="Competencies" title="Competencies" class="img-right"/>
+<figure class="article-media article-media--right"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_200/v1652430179/site-articles/how-to-develop-a-learning-strategy/competencies_af7udt.png" alt="Competencies" title="Competencies" /></figure>
 
 Competence-based learning design is a relatively new approach to developing learning experiences. It centres on developing core skills or abilities that result in tangible outcomes and metrics for determining the success of a learning intervention. Once you’ve established the organisational goals and the key skills, knowledge or abilities needed to achieve those goals, you can design learning interventions that seek to develop those needs. Through competence-based design, these skills could include complex or abstract concepts such as problem-solving, critical thinking or emotional intelligence, or they could cover more technical or practical expertise such as coaching or management skills, compliance training or sales techniques.<br><br>The increasing popularity of designing competence-based learning experiences is that it breaks down complex concepts into relatable, demonstrable abilities in order to measure and motivate learning. This mirrors the trends in digital and blended curriculum design towards micro-, asynchronous, self-paced learning which allows users to co-create their learning experiences.<br><br>By using competence-based design, learners are able to set their own pace based on personal mastery and demonstration of the skills developed, ensuring the learning experience remains both personalised and aligned to the needs of the organisation.
 
@@ -40,7 +40,7 @@ Competence-based learning design is a relatively new approach to developing lear
 
 > How will the learning be experienced?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_230/v1652430179/site-articles/how-to-develop-a-learning-strategy/delivery_ir9hce.png" alt="Delivery" title="Delivery" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_230/v1652430179/site-articles/how-to-develop-a-learning-strategy/delivery_ir9hce.png" alt="Delivery" title="Delivery" /></figure>
 
 Once you’ve established your organisational and developmental goals, needs and gaps, you’ll need to determine how best to deliver the learning experience. This phase merges the art and science of the LXD process to create an educational product or user experience. It is here that learning experience designers blend concepts and subject matter expertise, graphic design and multimedia, learning science and technology platforms and systems to build learning experiences that are engaging, promotes personalised learning, and which sufficiently balance intrinsic and extrinsic motivation factors.
 
@@ -59,7 +59,7 @@ This isn’t to say that there’s no longer a place for workshops or classroom-
 
 > How will success be measured?
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_200/v1652430179/site-articles/how-to-develop-a-learning-strategy/measurement_gj41yf.png" alt="Measurement" title="Measurement" class="img-right"/>
+<figure class="article-media article-media--right"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_200/v1652430179/site-articles/how-to-develop-a-learning-strategy/measurement_gj41yf.png" alt="Measurement" title="Measurement" /></figure>
 
 Finally, having decided at the beginning of the process what success looks like and why the training is important to achieving strategic organisational goals, the last step involves creating opportunities for the competencies to be developed, as well assessing whether the learning experience has been successful in developing those competencies. While over the long term you’ll be able to attribute achieving your organisational goals in part to your learning and development strategy, you’ll need short and medium term measures of success so that you can assess and evaluate what is or isn’t working, and how to improve on the experience.<br><br>Here again there are two approaches to measuring and evaluating the impact of a learning experience — through learning activities and through an assessment of the learning experience. Through both, a learning experience designer seeks to understand how the learning content and activities develop competencies. In other words, how will the learning experience itself incorporate opportunities to develop learning competencies, and how effective has the learning experience been in delivering on its intended outcomes?<br><br>Thinking about assessments and measurement as a continuation of the learning experience helps to distinguish them as further opportunities to learn, rather than functioning simply as lower-order memory recall tests. They will also reveal whether concepts have landed and if learning outcomes have been achieved.
 

@@ -14,13 +14,13 @@ Learners need to feel as though they are solving problems that are relevant and 
 
 ### There are two fundamental ‘types’ of motivation.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430527/site-articles/using-gamification-to-motivate-learning/two-fundamental-types-of-motivation_ocgxfw.jpg" alt="Two Fundamental Types Of Motivation" title="Two Fundamental Types Of Motivation" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430527/site-articles/using-gamification-to-motivate-learning/two-fundamental-types-of-motivation_ocgxfw.jpg" alt="Two Fundamental Types Of Motivation" title="Two Fundamental Types Of Motivation" /></figure>
 
 **Extrinsic motivation** stems from factors external to the learner and are typically related to pressures to complete the learning programme. These might come from expectations of a boss, the promise of a reward or promotion or the fear of failure or punishment. Extrinsic motivators might also include the potential for public recognition or learning experiences that provide a sense of instant gratification. These motivators, while seemingly effective in the short term, do little to instill a love for learning, or a curiosity or desire to keep learning.
 
 **Intrinsic motivation** is made up of the learner’s internal reasons for pursuing learning. These could include personal goals and ambitions, genuine interest in a subject, a need to prove something or even competition between peers. An intrinsically motivated learner is attracted to the perceived status of having knowledge and experience about a subject, and the ‘reward’ of mastering a topic or skill.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/what-is-gamification_huh2ga.jpg" alt="What is Gamification? title="What is Gamification?" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/what-is-gamification_huh2ga.jpg" alt="What is Gamification?" title="What is Gamification?" /></figure>
 
 ## What is Gamification?
 
@@ -34,24 +34,24 @@ In a previous article on the <a href="/insights/how-to-develop-a-learning-strate
 
 **Here are four ways you can use gamification tactics to improve learner motivation.**
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/desire-to-know-more_uzfyv8.jpg" alt="Appeal To Our Desire To Know More" title="Appeal To Our Desire To Know More" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/desire-to-know-more_uzfyv8.jpg" alt="Appeal To Our Desire To Know More" title="Appeal To Our Desire To Know More" /></figure>
 
 ### Appeal to our desire to know more
 
 When incorporating gamification tactics in a course or learning system, at its simplest, you’re scaffolding and cascading information. This information could be the content itself, unlocking new modules upon completion of the other, sharing bonus content, or drip feeding microlessons.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/desire-to-belong_fsqybm.jpg" alt="Appeal To Our Desire To Belong" title="Appeal To Our Desire To Belong" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/desire-to-belong_fsqybm.jpg" alt="Appeal To Our Desire To Belong" title="Appeal To Our Desire To Belong" /></figure>
 ### Appeal to our desire to belong
 
 Creating community discussion boards, opportunities to share thoughts and reflect on the experiences of the learning with peers helps to create a sense of belonging among participants. This natural social pressure motivates learners to contribute to the learning experience of others, incentivising their own engagement throughout the course that creates a compounding effect that continuously builds community.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/desire-to-win_ni6cjh.jpg" alt="Appeal To Our Desire To Win" title="Appeal To Our Desire To Win" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/desire-to-win_ni6cjh.jpg" alt="Appeal To Our Desire To Win" title="Appeal To Our Desire To Win" /></figure>
 
 ### Appeal to our desire to win
 
 Gamification tactics such as creating opportunities for participants to level up, earn points or rank on a leaderboard, or offering rewards or incentives for their accomplishments, creates natural competition, particularly for those with a strong internal locus of control (put simply, those who believe they make their own luck). By creating a virtual currency or point system, learning designers can appeal to a participant’s natural competitiveness and drive for status as a motivating factor to learn and master skills.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/desire-to-play_by287l.jpg" alt="Appeal To Our Desire To Play" title="Appeal To Our Desire To Play" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_550/v1652430527/site-articles/using-gamification-to-motivate-learning/desire-to-play_by287l.jpg" alt="Appeal To Our Desire To Play" title="Appeal To Our Desire To Play" /></figure>
 
 ### Appeal to our desire to play
 

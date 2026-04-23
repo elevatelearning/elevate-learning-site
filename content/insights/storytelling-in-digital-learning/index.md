@@ -8,7 +8,7 @@ author: Lara Hilton
 
 Storytelling has been a [powerful tool for teaching and learning for centuries](https://www.hrpub.org/download/20200430/UJERA7-19591327.pdf), and with the rise of digital learning, it has become an even more valuable tool for educators and trainers. Storytelling can be used to engage learners, convey complex information, and build connections between learners and the course material. Before we even begin to explore the benefits of storytelling in online learning, let’s take a step back to consider the power of storytelling in our lives.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681723876/site-articles/storytelling-in-digital-learning/Impact_of_Storytelling_i8ozwr.png" alt="Graphic depicting the impact of storytelling" title="Impact of Storytelling" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681723876/site-articles/storytelling-in-digital-learning/Impact_of_Storytelling_i8ozwr.png" alt="Graphic depicting the impact of storytelling" title="Impact of Storytelling" /></figure>
 
 # The Impact of Storytelling
 
@@ -20,7 +20,7 @@ When we hear a story, [our brains light up](https://bera-journals.onlinelibrary.
 
 Moreover, storytelling allows us to create a more personalised learning experience. By relating content to real-life situations, learners can see how the material applies to their own lives, making it more meaningful and relevant. This connection also helps learners feel more invested in the learning process, leading to [increased motivation and better outcomes](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13004).
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681724127/site-articles/storytelling-in-digital-learning/Benefits_of_Storytelling_vc3jvo.png" alt="Graphic depicting the benefits of storytelling" title="Benefits of Storytelling" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681724127/site-articles/storytelling-in-digital-learning/Benefits_of_Storytelling_vc3jvo.png" alt="Graphic depicting the benefits of storytelling" title="Benefits of Storytelling" /></figure>
 
 # The Benefits of Storytelling
 
@@ -28,7 +28,7 @@ First, it is important to understand the role that storytelling plays in learnin
 
 One of the key benefits of using storytelling in digital learning is its ability to engage learners. Storytelling can be used to create a sense of curiosity and anticipation, which can help to keep learners interested and motivated to continue learning. For example, a video game-based learning module may use a story-driven approach to introduce new concepts and challenges. This not only helps to keep learners engaged but also helps to make the learning experience more enjoyable.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_735/v1681720378/site-articles/storytelling-in-digital-learning/Storytelling_Article_Quote_Graphic_i2z2od.png" alt="Quote by Mary Catherin Bateson which reads, the human species thinks in metaphors and learns through stories." title="Mary Catherine Bateson Quote" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_735/v1681720378/site-articles/storytelling-in-digital-learning/Storytelling_Article_Quote_Graphic_i2z2od.png" alt="Quote by Mary Catherin Bateson which reads, the human species thinks in metaphors and learns through stories." title="Mary Catherine Bateson Quote" /></figure>
 
 Another benefit of using storytelling in digital learning is its ability to [convey complex information in an easily digestible way](https://www.cambridge.org/elt/blog/2020/10/06/how-to-make-storytelling-effective-for-all-learners/). Often, learners struggle with understanding abstract or technical concepts, but by presenting the information through a story, it can be made more relatable and understandable. For example, a virtual reality simulation of a historical event can be used to help learners understand the context and significance of the event, making it more engaging and memorable.
 
@@ -54,11 +54,11 @@ To create a Hero’s Journey-inspired learning experience, start by defining the
 
 The graphic below illustrates a visual model of the above description.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_802/v1681720735/site-articles/storytelling-in-digital-learning/Group_435_titcsf.png" alt="Graphic illustrating the application of the Hero's Journey to learning design." title="Applying the Hero's Journey to Learning Design" class="img-center"/>
+<figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_802/v1681720735/site-articles/storytelling-in-digital-learning/Group_435_titcsf.png" alt="Graphic illustrating the application of the Hero's Journey to learning design." title="Applying the Hero's Journey to Learning Design" /></figure>
 
 Incorporating the Hero’s Journey into your learning strategy can create a powerful and memorable experience for learners. By framing the learning experience as a journey, learners can feel more invested and engaged, leading to better outcomes and a more positive learning experience overall.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681724376/site-articles/storytelling-in-digital-learning/Tips_for_Storytelling_f599y8.png" alt="Depicting the concept of tips for effective storytelling in digital learning" title="Tips for Effective Storytelling in Digital Learning" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681724376/site-articles/storytelling-in-digital-learning/Tips_for_Storytelling_f599y8.png" alt="Depicting the concept of tips for effective storytelling in digital learning" title="Tips for Effective Storytelling in Digital Learning" /></figure>
 
 # Tips for Effective Storytelling in Digital Learning
 

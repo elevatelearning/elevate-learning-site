@@ -14,43 +14,43 @@ Here are 7 gamification tactics you can use in the design of your next learning 
 
 ## Co-Creation
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-cocreation_xsxsas.png" alt="Co-Creation" title="Co-Creation" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-cocreation_xsxsas.png" alt="Co-Creation" title="Co-Creation" /></figure>
 
 Let the participants help create their own learning experience by designing or customising their own learning path based on their needs and skill gaps. Allowing participants to co-create and choose how they navigate the learning experience encourages buy-in and autonomy of their learning.
 
 ## Challenges
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-challenges_vkfbhi.png" alt="Challenges" title="Challenges" class="img-right"/>
+<figure class="article-media article-media--right"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-challenges_vkfbhi.png" alt="Challenges" title="Challenges" /></figure>
 
 Encourage participants to take on learning challenges through extension tasks or gaining points or credits for completing additional activities or participating in forums.
 
 ## Feedback
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-feedback_wa4dhb.png" alt="Feedback" title="Feedback" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-feedback_wa4dhb.png" alt="Feedback" title="Feedback" /></figure>
 
 A key part of gaming is getting immediate feedback either from the narration or other players. Ensure that participants receive comprehensive feedback from both facilitators and their peers as they complete different exercises throughout the learning experience, including through automated assessments.
 
 ## Re-tries
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-retries_feyukq.png" alt="Re-tries" title="Re-tries" class="img-right"/>
+<figure class="article-media article-media--right"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-retries_feyukq.png" alt="Re-tries" title="Re-tries" /></figure>
 
 Provide second chances on activities where possible so that participants can learn from their mistakes. This mimics games and helps to reinforce the learning.
 
 ## Progression
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-progression_zeda8o.png" alt="Progression" title="Progression" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-progression_zeda8o.png" alt="Progression" title="Progression" /></figure>
 
 Include progress bars as a reminder to participants as to where they are within the learning experience and that indicate how close they are to reaching the ‘next level’.
 
 ## Points
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-points_akzrep.png" alt="Points" title="Points" class="img-right"/>
+<figure class="article-media article-media--right"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-points_akzrep.png" alt="Points" title="Points" /></figure>
 
 Instead of taking a traditional approach to marking activities, use a point system that increases when participants complete certain tasks or when they practically demonstrate a key competency.
 
 ## Rewards
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-rewards_c0iec9.png" alt="Rewards" title="Rewards" class="img-left"/>
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652429879/site-articles/gamification-tactics-for-online-learning-experiences/gamification-tactics-rewards_c0iec9.png" alt="Rewards" title="Rewards" /></figure>
 
 Incentivise participants with tangible rewards such as badges and certificates as they progress through the learning experience, and create opportunities to recognise group and individual achievements throughout the learning experience.
 
