@@ -3,14 +3,14 @@ import React from "react"
 import { Col, Container, Row } from "react-bootstrap"
 
 import FormatDate from "../../utils/format-date"
-import Layout from "../../components/layout"
+import LayoutPreview from "../../components/layout-preview"
 import ShareButtons from "../../components/share-buttons"
 
 const ArticlePreview = ({ entry, widgetFor }) => {
   const url = typeof window !== "undefined" ? window.location.href : ""
 
   return (
-    <Layout>
+    <LayoutPreview>
       <article
         className="article mb-5"
         itemScope
@@ -41,7 +41,7 @@ const ArticlePreview = ({ entry, widgetFor }) => {
           </Row>
         </Container>
       </article>
-    </Layout>
+    </LayoutPreview>
   )
 }
 
