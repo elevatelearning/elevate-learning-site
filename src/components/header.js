@@ -33,19 +33,17 @@ const getCurrentSectionIndex = elements => {
 }
 
 const Header = () => {
-  const [pathname, setPathname] = useState(getPathname)
+  const [pathname, setPathname] = useState("/")
   const isInsightsRoute = pathname.startsWith("/insights")
-  const [currentIndex, setCurrentIndex] = useState(
-    isInsightsRoute ? INSIGHTS_INDEX : -1
-  )
+  const [currentIndex, setCurrentIndex] = useState(-1)
 
-  useEffect(
-    () =>
-      globalHistory.listen(({ location }) => {
-        setPathname(location.pathname)
-      }),
-    []
-  )
+  useEffect(() => {
+    setPathname(getPathname())
+
+    return globalHistory.listen(({ location }) => {
+      setPathname(location.pathname)
+    })
+  }, [])
 
   useEffect(() => {
     if (isInsightsRoute) {
