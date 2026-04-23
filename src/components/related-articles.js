@@ -5,7 +5,7 @@ import { getSrc } from "gatsby-plugin-image"
 import { Link } from "gatsby"
 
 const RelatedArticles = ({ previous, next }) => {
-  const articles = [previous, next].filter(Boolean)
+  const articles = [next, previous].filter(Boolean)
 
   if (!articles.length) return null
 
@@ -42,7 +42,7 @@ const RelatedArticles = ({ previous, next }) => {
   }
 
   return (
-    <Container fluid className="related-wrapper mb-4">
+    <Container fluid className="related-wrapper mb-6">
       <Row className="justify-content-center">
         <Col xl={10}>
           <Row className="related-grid justify-content-center g-4">
