@@ -59,14 +59,6 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-      - label: "Infographic Preview"
-        name: "infographicPreviewUrl"
-        widget: "image"
-        required: false
-      - label: "Infographic Poster"
-        name: "infographicUrl"
-        widget: "file"
-        required: false
     meta:
       path:
         widget: "string"

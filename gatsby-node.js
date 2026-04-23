@@ -85,38 +85,6 @@ exports.onCreateNode = async ({
         value: imageUrlFileNode.id
       })
     }
-
-    if (node.frontmatter.infographicPreviewUrl != null) {
-      const infographicPreviewUrlFileNode = await createRemoteFileNode({
-        url: node.frontmatter.infographicPreviewUrl,
-        parentNodeId: node.id,
-        createNode,
-        createNodeId,
-        getCache
-      })
-
-      createNodeField({
-        node,
-        name: "infographicPreview",
-        value: infographicPreviewUrlFileNode.id
-      })
-    }
-
-    if (node.frontmatter.infographicUrl != null) {
-      const infographicUrlFileNode = await createRemoteFileNode({
-        url: node.frontmatter.infographicUrl,
-        parentNodeId: node.id,
-        createNode,
-        createNodeId,
-        getCache
-      })
-
-      createNodeField({
-        node,
-        name: "infographic",
-        value: infographicUrlFileNode.id
-      })
-    }
   }
 }
 
@@ -141,8 +109,6 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type MarkdownRemark implements Node {
       image: File @link(from: "fields.image")
-      infographicPreview: File @link(from: "fields.infographicPreview")
-      infographic: File @link(from: "fields.infographic")
       frontmatter: Frontmatter
       fields: Fields
     }
@@ -154,8 +120,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       description: String
       author: String
       date: Date @dateformat
-      infographicPreviewUrl: String
-      infographicUrl: String
     }
 
     type Fields {

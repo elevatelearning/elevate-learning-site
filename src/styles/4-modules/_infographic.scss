@@ -1,4 +1,13 @@
 .infographic-wrapper {
+  clear: both;
+  display: flow-root;
+  margin: 3rem 0;
+  width: 100%;
+
+  @include media-breakpoint-up(md) {
+    margin: 4rem 0;
+  }
+
   .card {
     background-color: rgba(9.8, 20.4, 27.5, 0.7);
     border-radius: 0;
@@ -88,4 +97,8 @@
       }
     }
   }
+}
+
+.article-content section > .infographic-wrapper:last-child {
+  margin-bottom: 0;
 }
