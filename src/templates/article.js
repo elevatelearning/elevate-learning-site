@@ -9,6 +9,7 @@ import Layout from "../components/layout"
 import RelatedArticles from "../components/related-articles"
 import Seo from "../components/seo"
 import ShareButtons from "../components/share-buttons"
+import { splitArticleHtmlByInfographics } from "../utils/infographic-embed"
 
 const ArticleTemplate = ({ data }) => {
   const article = data.article
@@ -16,6 +17,7 @@ const ArticleTemplate = ({ data }) => {
     article.fields.slug,
     data.site.siteMetadata.siteUrl
   ).toString()
+  const articleContent = splitArticleHtmlByInfographics(article.html)
 
   return (
     <Layout>
@@ -44,10 +46,27 @@ const ArticleTemplate = ({ data }) => {
           </Row>
           <Row className="justify-content-center article-content py-3 py-md-5">
             <Col md={10} lg={8}>
-              <section
-                dangerouslySetInnerHTML={{ __html: article.html }}
-                itemProp="articleBody"
-              />
+              <section itemProp="articleBody">
+                {articleContent.map((block, index) => {
+                  if (block.type === "infographic") {
+                    return (
+                      <DownloadInfographic
+                        key={`infographic-${index}`}
+                        previewUrl={block.previewUrl}
+                        posterUrl={block.posterUrl}
+                        embedded
+                      />
+                    )
+                  }
+
+                  return (
+                    <div
+                      key={`html-${index}`}
+                      dangerouslySetInnerHTML={{ __html: block.html }}
+                    />
+                  )
+                })}
+              </section>
               <hr />
               <footer>
                 <Bio selected={article.frontmatter.author} />
@@ -56,10 +75,6 @@ const ArticleTemplate = ({ data }) => {
           </Row>
         </Container>
       </article>
-      <DownloadInfographic
-        preview={article.infographicPreview}
-        infographic={article.infographic}
-      />
       <RelatedArticles previous={data.previous} next={data.next} />
     </Layout>
   )
@@ -86,15 +101,6 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
-      infographicPreview {
-        childImageSharp {
-          gatsbyImageData(layout: FIXED, width: 200)
-        }
-      }
-      infographic {
-        publicURL
-        name
-      }
       frontmatter {
         title
         date(formatString: "DD MMMM YYYY")

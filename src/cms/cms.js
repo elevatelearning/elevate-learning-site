@@ -1,6 +1,10 @@
 import CMS from "decap-cms-app"
 import cloudinary from "decap-cms-media-library-cloudinary"
 import ArticlePreview from "./preview-templates/article-preview"
+import {
+  buildInfographicMarkup,
+  createInfographicComponentPattern
+} from "../utils/infographic-embed"
 
 CMS.registerMediaLibrary(cloudinary)
 CMS.registerPreviewTemplate("articles", ArticlePreview)
@@ -53,6 +57,19 @@ const buildImageMarkup = ({ image, alt, title, alignment, caption }) => {
   )}" alt="${escapeHtmlAttribute(alt)}" title="${escapeHtmlAttribute(
     title
   )}" />${captionMarkup}</figure>`
+}
+
+const buildInfographicPreviewMarkup = ({ previewUrl, posterUrl }) => {
+  const previewMarkup = previewUrl
+    ? `<div class="col-md-3"><img class="card-img" src="${escapeHtmlAttribute(
+        previewUrl
+      )}" alt="Infographic preview" /></div>`
+    : ""
+  const bodyColumnClass = previewUrl ? "col-md-9" : "col-12"
+
+  return `<div class="infographic-wrapper"><div class="card"><div class="row g-0"><div class="${bodyColumnClass}"><div class="card-body"><div class="card-title">Download the Infographic</div><div class="card-text"><p>Selected infographic preview and poster for this article.</p><a href="${escapeHtmlAttribute(
+    posterUrl
+  )}" target="_blank" rel="noopener noreferrer">View Selected Poster</a></div></div></div>${previewMarkup}</div></div></div>`
 }
 
 CMS.registerEditorComponent({
@@ -147,6 +164,40 @@ CMS.registerEditorComponent({
       hint: "Optional plain-text caption.",
       required: false,
       widget: "text"
+    }
+  ]
+})
+
+CMS.registerEditorComponent({
+  label: "Infographic",
+  id: "infographic",
+  fromBlock: match => {
+    if (!match) {
+      return null
+    }
+
+    const [, previewUrl, posterUrl] = match
+
+    return {
+      previewUrl: decodeHtml(previewUrl),
+      posterUrl: decodeHtml(posterUrl)
+    }
+  },
+  toBlock: ({ previewUrl, posterUrl }) =>
+    buildInfographicMarkup({ previewUrl, posterUrl }),
+  toPreview: ({ previewUrl, posterUrl }) =>
+    buildInfographicPreviewMarkup({ previewUrl, posterUrl }),
+  pattern: createInfographicComponentPattern("s"),
+  fields: [
+    {
+      name: "previewUrl",
+      label: "Preview Image",
+      widget: "image"
+    },
+    {
+      name: "posterUrl",
+      label: "Poster",
+      widget: "file"
     }
   ]
 })

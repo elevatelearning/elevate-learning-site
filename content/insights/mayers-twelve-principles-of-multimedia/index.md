@@ -4,8 +4,6 @@ featured: false
 title: Mayer's 12 Principles of Multimedia
 date: 2021-08-14
 author: Pasqua Lawrenson
-infographicPreviewUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1643720134/site-infographics/mayers-principles-of-multimedia-infographic-preview_syrvqs.png
-infographicUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1645597978/site-infographics/Mayer_s_Principles_of_Multimedia_n4mj32.pdf
 ---
 
 Multimedia refers to an array of media types such as text, images, audio and video content, and is used to convey meaning and enhance learning experiences. Here are Mayer’s 12 Principles of Multimedia to help you create interactive, engaging and memorable digital learning experiences.
@@ -94,4 +92,4 @@ People learn best when listening to a human voice. Narration should be recorded 
 
 Including a video of the speaker on screen doesn’t necessarily improve learning. Rather include relevant visuals or text on screen to enhance the learning experience.
 
-_If you would like to download a free infographic for this article, then [download the infographic preview](https://res.cloudinary.com/elevatelearning/image/upload/v1643720134/site-infographics/mayers-principles-of-multimedia-infographic-preview_syrvqs.png)._
+<div class="article-infographic" data-preview-url="https://res.cloudinary.com/elevatelearning/image/upload/v1643720134/site-infographics/mayers-principles-of-multimedia-infographic-preview_syrvqs.png" data-poster-url="https://res.cloudinary.com/elevatelearning/image/upload/v1645597978/site-infographics/Mayer_s_Principles_of_Multimedia_n4mj32.pdf"></div>

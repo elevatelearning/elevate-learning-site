@@ -4,8 +4,6 @@ featured: false
 title: Gamification Tactics for Online Learning Experiences
 date: 2021-07-19
 author: Kira Koopman
-infographicPreviewUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1643720124/site-infographics/gamification-tactics-infographic-preview_ddkrc6.png
-infographicUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1645597963/site-infographics/Gamification_Tactics_for_Online_Learning_Experiences_oibfga.pdf
 ---
 
 No one is too old for gamified online learning experiences! We’re not talking about gimmicky or cliché gamification, but rather tactics that enhance learners’ intrinsic and extrinsic motivation and improve their engagement with your learning experiences. Gamification tactics can help to increase anyone’s level of motivation and engagement with online learning experiences.
@@ -55,3 +53,5 @@ Instead of taking a traditional approach to marking activities, use a point syst
 Incentivise participants with tangible rewards such as badges and certificates as they progress through the learning experience, and create opportunities to recognise group and individual achievements throughout the learning experience.
 
 For more of our thoughts on gamification, give our previous article a read - [https://www.elevatelearning.org/insights/using-gamification-to-motivate-learning/](https://www.elevatelearning.org/insights/using-gamification-to-motivate-learning/)
+
+<div class="article-infographic" data-preview-url="https://res.cloudinary.com/elevatelearning/image/upload/v1643720124/site-infographics/gamification-tactics-infographic-preview_ddkrc6.png" data-poster-url="https://res.cloudinary.com/elevatelearning/image/upload/v1645597963/site-infographics/Gamification_Tactics_for_Online_Learning_Experiences_oibfga.pdf"></div>
