@@ -8,9 +8,9 @@ author: Lara Hilton
 
 Storytelling has been a [powerful tool for teaching and learning for centuries](https://www.hrpub.org/download/20200430/UJERA7-19591327.pdf), and with the rise of digital learning, it has become an even more valuable tool for educators and trainers. Storytelling can be used to engage learners, convey complex information, and build connections between learners and the course material. Before we even begin to explore the benefits of storytelling in online learning, let’s take a step back to consider the power of storytelling in our lives.
 
-<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681723876/site-articles/storytelling-in-digital-learning/Impact_of_Storytelling_i8ozwr.png" alt="Graphic depicting the impact of storytelling" title="Impact of Storytelling" /></figure>
-
 # The Impact of Storytelling
+
+<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681723876/site-articles/storytelling-in-digital-learning/Impact_of_Storytelling_i8ozwr.png" alt="Graphic depicting the impact of storytelling" title="Impact of Storytelling" /></figure>
 
 The art of storytelling has been around since the beginning of human civilisation. We tell stories to make sense of our experiences, to connect with others, and to learn about ourselves and the world around us. As digital learning continues to gain popularity, it’s easy to get lost in the myriad of educational tools and platforms and trendy buzzwords. However, amidst all the modern technology and interactive programmes, it’s crucial to remember the timeless and simple power of storytelling.
 
