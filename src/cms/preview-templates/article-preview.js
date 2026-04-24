@@ -8,6 +8,7 @@ import ShareButtons from "../../components/share-buttons"
 
 const ArticlePreview = ({ entry, widgetFor }) => {
   const url = typeof window !== "undefined" ? window.location.href : ""
+  const articleSettingsPath = ["data", "articleSettings"]
 
   return (
     <LayoutPreview>
@@ -22,12 +23,19 @@ const ArticlePreview = ({ entry, widgetFor }) => {
               <div className="jumbotron text-center py-4 py-md-5 py-lg-7 my-1">
                 <header>
                   <h1 itemProp="headline">{entry.getIn(["data", "title"])}</h1>
-                  <p>{FormatDate(entry.getIn(["data", "date"]))}</p>
+                  <p>
+                    {FormatDate(
+                      entry.getIn([...articleSettingsPath, "date"])
+                    )}
+                  </p>
                 </header>
                 <ShareButtons
                   url={url}
                   title={entry.getIn(["data", "title"])}
-                  description={entry.getIn(["data", "description"])}
+                  description={entry.getIn([
+                    ...articleSettingsPath,
+                    "description"
+                  ])}
                 />
               </div>
             </Col>

@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658998958/site-articles/what-is-learning-analytics/Blog_Banner_19_edw5ax.png
-featured: false
 title: What is Learning Analytics?
-date: 2021-09-03
-author: Pasqua Lawrenson
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658998958/site-articles/what-is-learning-analytics/Blog_Banner_19_edw5ax.png
+  date: 2021-09-03
+  author: Pasqua Lawrenson
+  featured: false
 ---
 
 Launching online learning programmes or courses in your organisation can be costly. Paradoxically, successful online learning experiences can save your organisation time, talent and money. Therefore, it’s important to frequently measure the effectiveness of your learning experiences, to know whether they are benefitting learners, creating a learning culture in your organisation and reaping a return on investment. As we explored in our [previous article](https://www.elevatelearning.org/insights/how-to-measure-the-effectiveness-of-your-learning-experiences/) on evaluating learning experiences, effective measurement requires focusing on the key metrics that will help you determine whether your learning experience has been successful both at a learner and organisational level. Thanks to advances in digital learning technology, we have the tools for deeper learning analysis, and can track learner engagement more closely, which in turn helps to measure the success of our online learning experiences.

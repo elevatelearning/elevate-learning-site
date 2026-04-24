@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656415594/site-articles/how-to-develop-a-learning-strategy/Blog_Banner_3_yb63yx.png
-featured: false
 title: How to Develop a Learning Strategy
-date: 2020-08-06
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656415594/site-articles/how-to-develop-a-learning-strategy/Blog_Banner_3_yb63yx.png
+  date: 2020-08-06
+  author: Kira Koopman
+  featured: false
 ---
 
 **Using competence-based LXD to meet your strategic objectives.**

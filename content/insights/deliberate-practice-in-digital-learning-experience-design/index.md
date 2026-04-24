@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1659000588/site-articles/deliberate-practice-in-digital-learning-experience-design/Blog_Banner_23_ddszru.png
-featured: false
 title: Deliberate Practice in Digital Learning Experience Design
-date: 2022-09-05
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1659000588/site-articles/deliberate-practice-in-digital-learning-experience-design/Blog_Banner_23_ddszru.png
+  date: 2022-09-05
+  author: Kira Koopman
+  featured: false
 ---
 
 In a previous article on [motivation and grit in learning experience design](https://www.elevatelearning.org/insights/motivation-and-grit-in-a-digital-learning-environment/), we described grit as the pursuit of one’s passion, with 'consistent interest and sustained effort over a long period of time' (Duckworth & Quinn, 2009) and looked at its role in ensuring learners are fully engaged and motivated throughout a learning experience. This idea of staying motivated throughout a learning experience and sustained engagement in practice activities is key to developing new skills, competencies and behaviours.

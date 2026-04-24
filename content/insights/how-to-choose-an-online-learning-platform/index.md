@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999399/site-articles/how-to-choose-an-online-learning-platform/Blog_Banner_22_js1pgh.png
-featured: false
 title: How to Choose an Online Learning Platform
-date: 2022-02-08
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999399/site-articles/how-to-choose-an-online-learning-platform/Blog_Banner_22_js1pgh.png
+  date: 2022-02-08
+  author: Kira Koopman
+  featured: false
 ---
 
 If you’ve been tasked with choosing and implementing an online learning platform for your team or organisation, there are some critical questions you’ll need to ask before being sold by the most convincing demo or salesperson. Moving your training online and choosing a learning platform to facilitate this transition is an exciting endeavour, especially if this is the first time your organisation is investing in learning technology, but the edtech industry can also be very overwhelming to navigate.

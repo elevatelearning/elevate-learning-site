@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656571970/site-articles/how-to-become-a-better-learning-designer/Blog_Banner_14_zt2blm.png
-featured: false
 title: How to Become a Better Learning Designer
-date: 2021-06-24
-author: Pasqua Lawrenson
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656571970/site-articles/how-to-become-a-better-learning-designer/Blog_Banner_14_zt2blm.png
+  date: 2021-06-24
+  author: Pasqua Lawrenson
+  featured: false
 ---
 
 The outbreak of the Covid-19 pandemic led to an urgent shift to online learning. Many organisations faced the challenge of transitioning their formerly offline training overnight, while those within the online learning industry needed to adapt their processes quickly to address the demand. The pressure led to many organisations prioritising simply putting their training online, rather than thinking about how to optimise the learning experience for their learners.

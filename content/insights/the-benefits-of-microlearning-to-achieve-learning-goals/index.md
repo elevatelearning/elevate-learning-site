@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656415850/site-articles/the-benefits-of-microlearning-to-achieve-learning-goals/Blog_Banner_4_fqrvdg.png
-featured: false
 title: The Benefits of Microlearning to Achieve Learning Goals
-date: 2020-08-21
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656415850/site-articles/the-benefits-of-microlearning-to-achieve-learning-goals/Blog_Banner_4_fqrvdg.png
+  date: 2020-08-21
+  author: Kira Koopman
+  featured: false
 ---
 
 ## Chunking Your Learning Content for Maximum Retention and Engagement

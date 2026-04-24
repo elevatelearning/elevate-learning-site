@@ -118,20 +118,23 @@ module.exports = {
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.nodes.map(node => {
-                return Object.assign({}, node.frontmatter, {
-                  author: node.frontmatter.author,
+                const articleSettings = node.frontmatter.articleSettings || {}
+
+                return {
+                  title: node.frontmatter.title,
+                  author: articleSettings.author,
                   description: node.excerpt,
-                  date: node.frontmatter.date,
+                  date: articleSettings.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
                   custom_elements: [{ "content:encoded": node.html }]
-                })
+                }
               })
             },
             query: `
               {
                 allMarkdownRemark(
-                  sort: { frontmatter: { date: DESC } },
+                  sort: { frontmatter: { articleSettings: { date: DESC } } }
                 ) {
                   nodes {
                     excerpt
@@ -141,7 +144,10 @@ module.exports = {
                     }
                     frontmatter {
                       title
-                      date
+                      articleSettings {
+                        author
+                        date
+                      }
                     }
                   }
                 }

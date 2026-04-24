@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656507886/site-articles/how-to-become-a-better-learner/Blog_Banner_12_ovqbpg.png
-featured: false
 title: How to Become a Better Learner
-date: 2021-05-27
-author: Pasqua Lawrenson
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656507886/site-articles/how-to-become-a-better-learner/Blog_Banner_12_ovqbpg.png
+  date: 2021-05-27
+  author: Pasqua Lawrenson
+  featured: false
 ---
 
 <figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652429928/site-articles/how-to-become-a-better-learner/how-to-become-a-better-learner_juqiwf.png" alt="How to Become a Better Learner" title="How to Become a Better Learner" /></figure>

@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1679554364/site-articles/applying-marketing-principles-to-digital-learning-design/Blog_Banner_10_awvh04.png
-featured: true
 title: Applying Marketing Principles to Digital Learning Design
-date: 2023-03-24
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1679554364/site-articles/applying-marketing-principles-to-digital-learning-design/Blog_Banner_10_awvh04.png
+  date: 2023-03-24
+  author: Kira Koopman
+  featured: true
 ---
 
 ### "Marketing is not only about being found, it's about being chosen. The same applies to learning design: it's not about making content available, but making it irresistible."

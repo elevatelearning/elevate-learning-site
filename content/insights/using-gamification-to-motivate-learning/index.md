@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656416420/site-articles/using-gamification-to-motivate-learning/Blog_Banner_5_mv44ke.png
-featured: false
 title: Using Gamification to Motivate Learning
-date: 2020-09-30
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656416420/site-articles/using-gamification-to-motivate-learning/Blog_Banner_5_mv44ke.png
+  date: 2020-09-30
+  author: Kira Koopman
+  featured: false
 ---
 
 ## Understanding gamification tactics to deliver impactful learning experiences.

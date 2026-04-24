@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656415508/site-articles/five-reasons-why-you-should-invest-in-digital-learning/Blog_Banner_2_ln9rxl.png
-featured: false
 title: Five Reasons Why You Should Invest in Digital Learning
-date: 2020-07-26
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656415508/site-articles/five-reasons-why-you-should-invest-in-digital-learning/Blog_Banner_2_ln9rxl.png
+  date: 2020-07-26
+  author: Kira Koopman
+  featured: false
 ---
 
 **Or, how to motivate your boss, Board, or budget-holders to go digital.**

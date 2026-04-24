@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656571345/site-articles/launching-learning-experience-design-essentials/Blog_Banner_13_qxue2m.png
-featured: false
 title: Launching Learning Experience Design Essentials
-date: 2021-07-02
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656571345/site-articles/launching-learning-experience-design-essentials/Blog_Banner_13_qxue2m.png
+  date: 2021-07-02
+  author: Kira Koopman
+  featured: false
 ---
 
 <figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430300/site-articles/launching-learning-experience-design-essentials/top-banner_osmzkg.png" alt="Launching Learning Experience Design Essentials" title="Launching Learning Experience Design Essentials" /></figure>

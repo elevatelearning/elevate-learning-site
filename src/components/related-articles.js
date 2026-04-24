@@ -10,6 +10,7 @@ const RelatedArticles = ({ previous, next }) => {
   if (!articles.length) return null
 
   const renderCard = article => {
+    const articleSettings = article.frontmatter.articleSettings || {}
     const title = article.frontmatter.title || article.fields.slug
 
     return (
@@ -29,12 +30,12 @@ const RelatedArticles = ({ previous, next }) => {
             </Card.Title>
             <Card.Text
               dangerouslySetInnerHTML={{
-                __html: article.frontmatter.description || article.excerpt
+                __html: articleSettings.description || article.excerpt
               }}
             />
           </Card.Body>
           <Card.Footer>
-            <small>{article.frontmatter.date}</small>
+            <small>{articleSettings.date}</small>
           </Card.Footer>
         </Card>
       </Col>

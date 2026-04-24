@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1675067027/site-articles/ai-for-learning/Blog_Banner_8_vc8how.png
-featured: true
 title: AI for Learning
-date: 2023-02-03
-author: Lara Hilton
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1675067027/site-articles/ai-for-learning/Blog_Banner_8_vc8how.png
+  date: 2023-02-03
+  author: Lara Hilton
+  featured: true
 ---
 
 ### "AI is the ultimate democratiser, providing access to information, education, and economic opportunity on an unprecedented scale." — Satya Nadella, CEO of Microsoft

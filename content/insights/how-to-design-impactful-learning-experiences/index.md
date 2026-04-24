@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656417214/site-articles/how-to-design-impactful-learning-experiences/Blog_Banner_7_d5eqop.png
-featured: false
 title: How to Design Impactful Learning Experiences
-date: 2020-12-10
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656417214/site-articles/how-to-design-impactful-learning-experiences/Blog_Banner_7_d5eqop.png
+  date: 2020-12-10
+  author: Kira Koopman
+  featured: false
 ---
 
 When it comes to designing learning experiences, whether it’s an academy, online course or virtual workshop, it is imperative to consider learning experience design factors that will ensure learners are sufficiently engaged, motivated and encouraged to complete the training and practically apply and reflect on the new competencies they are expected to learn.

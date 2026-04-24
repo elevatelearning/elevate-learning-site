@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656507665/site-articles/creating-a-company-culture-of-lifelong-learning/Blog_Banner_11_tomcvu.png
-featured: false
 title: Creating a Company Culture of Lifelong Learning
-date: 2021-05-04
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656507665/site-articles/creating-a-company-culture-of-lifelong-learning/Blog_Banner_11_tomcvu.png
+  date: 2021-05-04
+  author: Kira Koopman
+  featured: false
 ---
 
 <figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652429683/site-articles/creating-a-company-culture-of-lifelong-learning/introduction_uxmmrt.png" alt="Creating a Company Culture of Lifelong Learning" title="Creating a Company Culture of Lifelong Learning" /></figure>

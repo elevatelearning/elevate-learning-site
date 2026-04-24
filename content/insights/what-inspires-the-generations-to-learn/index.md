@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656416875/site-articles/what-inspires-the-generations-to-learn/Blog_Banner_6_bf0sub.png
-featured: false
 title: What Inspires the Generations to Learn
-date: 2020-11-13
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656416875/site-articles/what-inspires-the-generations-to-learn/Blog_Banner_6_bf0sub.png
+  date: 2020-11-13
+  author: Kira Koopman
+  featured: false
 ---
 
 <figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_700/v1652430565/site-articles/what-inspires-the-generations-to-learn/what-inspires-generations-to-learn_cyicly.jpg" alt="What Inspires the Generations to Learn" title="What Inspires the Generations to Learn" /></figure>
