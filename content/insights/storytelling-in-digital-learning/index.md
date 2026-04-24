@@ -7,8 +7,6 @@ author: Lara Hilton
 ---
 Storytelling has been a [powerful tool for teaching and learning for centuries](https://www.hrpub.org/download/20200430/UJERA7-19591327.pdf), and with the rise of digital learning, it has become an even more valuable tool for educators and trainers. Storytelling can be used to engage learners, convey complex information, and build connections between learners and the course material. Before we even begin to explore the benefits of storytelling in online learning, let’s take a step back to consider the power of storytelling in our lives.
 
-<figure class="article-media article-media--left"><img src="" alt="Graphic depicting the impact of storytelling" title="Impact of Storytelling" /></figure>
-
 # The Impact of Storytelling
 
 The art of storytelling has been around since the beginning of human civilisation. We tell stories to make sense of our experiences, to connect with others, and to learn about ourselves and the world around us. As digital learning continues to gain popularity, it’s easy to get lost in the myriad of educational tools and platforms and trendy buzzwords. However, amidst all the modern technology and interactive programmes, it’s crucial to remember the timeless and simple power of storytelling.
@@ -18,8 +16,6 @@ From a young age, we have been captivated by stories that transport us to differ
 When we hear a story, [our brains light up](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13004) in a way that’s different from just receiving information. Stories activate multiple areas of the brain, including those associated with memory, emotions, and language comprehension. This multisensory experience makes it easier for learners to engage with the material and remember it long-term.
 
 Moreover, storytelling allows us to create a more personalised learning experience. By relating content to real-life situations, learners can see how the material applies to their own lives, making it more meaningful and relevant. This connection also helps learners feel more invested in the learning process, leading to [increased motivation and better outcomes](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13004).
-
-<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681724127/site-articles/storytelling-in-digital-learning/Benefits_of_Storytelling_vc3jvo.png" alt="Graphic depicting the benefits of storytelling" title="Benefits of Storytelling" /></figure>
 
 # The Benefits of Storytelling
 
@@ -57,8 +53,6 @@ The graphic below illustrates a visual model of the above description.
 
 Incorporating the Hero’s Journey into your learning strategy can create a powerful and memorable experience for learners. By framing the learning experience as a journey, learners can feel more invested and engaged, leading to better outcomes and a more positive learning experience overall.
 
-<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681724376/site-articles/storytelling-in-digital-learning/Tips_for_Storytelling_f599y8.png" alt="Depicting the concept of tips for effective storytelling in digital learning" title="Tips for Effective Storytelling in Digital Learning" /></figure>
-
 # Tips for Effective Storytelling in Digital Learning
 
 In order to [effectively incorporate storytelling](https://files.eric.ed.gov/fulltext/EJ1125504.pdf) into your digital learning strategy, it’s important to keep a few tips in mind:
@@ -68,10 +62,6 @@ In order to [effectively incorporate storytelling](https://files.eric.ed.gov/ful
 * Use [multimedia](https://www.scirp.org/html/38412.html): Incorporating images, videos, and interactive elements can help create a more immersive and engaging storytelling experience.*
 * Make it relevant: By using real-life examples and scenarios, learners can better understand how the material applies to their own lives and experiences.
 * Don't forget the [learning objectives](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13004): While storytelling can be entertaining, it's important to remember that the ultimate goal is to help learners master the material. Be sure that your stories align with your learning objectives and support the overall goals of the course.
-
-*\*If you would like to learn more about how to create impactful multimedia, then sign-up for our Learning Experience Design Essentials Course here. As a teaser, watch the video below which outlines a few helpful tips to implement to create impactful educational videos.*
-
-<center><iframe width="650" height="405" src="https://www.youtube.com/embed/WAZH13MS6ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 While storytelling can be a powerful tool in digital learning, it is not the only solution. As with any learning strategy, it is important to consider the specific needs and learning styles of the learners, as well as the goals and objectives of the training or education programme.
 
