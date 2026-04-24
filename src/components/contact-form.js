@@ -59,7 +59,7 @@ class ContactForm extends React.Component {
         })
         this.formRef.current.reset()
       })
-      .catch(error =>
+      .catch(() =>
         this.setState({
           feedbackMessage: "Message could not be sent.",
           formValidated: false
