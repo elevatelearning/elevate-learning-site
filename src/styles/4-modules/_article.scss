@@ -219,7 +219,7 @@
     height: auto;
   }
 
-  .article-media--center,
+  figure.article-media.article-media--center,
   img.img-center,
   img.image-center,
   img.ime-center {
@@ -229,7 +229,7 @@
     text-align: center;
   }
 
-  .article-media--center figcaption {
+  figure.article-media.article-media--center figcaption {
     margin-left: auto;
     margin-right: auto;
     max-width: 52ch;
@@ -304,18 +304,18 @@
   }
 
   @include media-breakpoint-up(md) {
-    .article-media--left,
-    .article-media--right {
+    figure.article-media.article-media--left,
+    figure.article-media.article-media--right {
       max-width: min(100%, 20rem);
     }
 
-    .article-media--left,
+    figure.article-media.article-media--left,
     img.img-left {
       float: left;
       margin: 0.4rem 2rem 1.25rem 0;
     }
 
-    .article-media--right,
+    figure.article-media.article-media--right,
     img.img-right {
       float: right;
       margin: 0.4rem 0 1.25rem 2rem;

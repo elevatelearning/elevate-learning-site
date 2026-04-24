@@ -5,7 +5,11 @@ import {
   buildInfographicMarkup,
   createInfographicComponentPattern
 } from "../utils/infographic-embed"
+import "../styles/main.scss"
 
+// Decap loads preview styles from a fixed `cms.css` filename.
+// Add a query param so deploys don't get stuck on a stale cached preview stylesheet.
+CMS.registerPreviewStyle(`cms.css?v=${Date.now()}`)
 CMS.registerMediaLibrary(cloudinary)
 CMS.registerPreviewTemplate("articles", ArticlePreview)
 
