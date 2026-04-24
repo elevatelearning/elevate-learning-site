@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999109/site-articles/the-future-of-digital-learning-predictions-for-2022-and-beyond/Blog_Banner_21_c8vfex.png
-featured: false
 title: The Future of Digital Learning - Predictions for 2022 and Beyond
-date: 2021-12-13
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999109/site-articles/the-future-of-digital-learning-predictions-for-2022-and-beyond/Blog_Banner_21_c8vfex.png
+  date: 2021-12-13
+  author: Kira Koopman
+  featured: false
 ---
 
 <figure class="article-media article-media--center"><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652430443/site-articles/the-future-of-digital-learning-predictions-for-2022-and-beyond/the-future-of-digital-learning_zgwkng.jpg" alt="The Future Of Digital Learning" title="The Future Of Digital Learning" /></figure>

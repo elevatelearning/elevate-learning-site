@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999166/site-articles/the-future-of-face-to-face-teaching/Blog_Banner_20_j66w4d.png
-featured: false
 title: The Future of Face-to-Face Teaching
-date: 2021-10-22
-author: Kelsey Groenmeyer
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999166/site-articles/the-future-of-face-to-face-teaching/Blog_Banner_20_j66w4d.png
+  date: 2021-10-22
+  author: Kelsey Groenmeyer
+  featured: false
 ---
 
 A year and a half into the Covid-19 pandemic and we are still hopping on- and offline without a clear plan of which mode of delivery is around the corner. It’s safe to say that this hybrid way of teaching is commonplace and here to stay. So how does this affect learning? Is this the future of teaching?

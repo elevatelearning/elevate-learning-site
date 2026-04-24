@@ -1,11 +1,66 @@
 import CMS from "decap-cms-app"
 import cloudinary from "decap-cms-media-library-cloudinary"
+import { ScrollSync } from "react-scroll-sync"
 import ArticlePreview from "./preview-templates/article-preview"
 import {
   buildInfographicMarkup,
   createInfographicComponentPattern
 } from "../utils/infographic-embed"
 import "../styles/main.scss"
+
+const patchCmsScrollSync = () => {
+  const scrollSyncPrototype = ScrollSync?.prototype
+
+  if (
+    !scrollSyncPrototype ||
+    scrollSyncPrototype.__elevateScrollSyncPatched ||
+    typeof scrollSyncPrototype.syncScrollPosition !== "function"
+  ) {
+    return
+  }
+
+  // Decap relies on react-scroll-sync for editor/preview sync. Patch the
+  // proportional math so each pane uses its own viewport height and width.
+  scrollSyncPrototype.syncScrollPosition = function (scrolledPane, pane) {
+    const {
+      scrollTop,
+      scrollHeight,
+      clientHeight,
+      scrollLeft,
+      scrollWidth,
+      clientWidth
+    } = scrolledPane
+    const scrollTopOffset = Math.max(scrollHeight - clientHeight, 0)
+    const scrollLeftOffset = Math.max(scrollWidth - clientWidth, 0)
+    const paneHeight = Math.max(pane.scrollHeight - pane.clientHeight, 0)
+    const paneWidth = Math.max(pane.scrollWidth - pane.clientWidth, 0)
+    const {
+      proportional = true,
+      vertical = true,
+      horizontal = true
+    } = this.props || {}
+
+    if (vertical) {
+      pane.scrollTop =
+        proportional && scrollTopOffset > 0
+          ? (paneHeight * scrollTop) / scrollTopOffset
+          : scrollTop
+    }
+
+    if (horizontal) {
+      pane.scrollLeft =
+        proportional && scrollLeftOffset > 0
+          ? (paneWidth * scrollLeft) / scrollLeftOffset
+          : scrollLeft
+    }
+  }
+
+  Object.defineProperty(scrollSyncPrototype, "__elevateScrollSyncPatched", {
+    value: true
+  })
+}
+
+patchCmsScrollSync()
 
 // Decap loads preview styles from a fixed `cms.css` filename.
 // Add a query param so deploys don't get stuck on a stale cached preview stylesheet.
@@ -79,6 +134,7 @@ const buildInfographicPreviewMarkup = ({ previewUrl, posterUrl }) => {
 CMS.registerEditorComponent({
   label: "Image",
   id: "image",
+  collapsed: true,
   fromBlock: match => {
     if (!match) {
       return null
@@ -175,6 +231,7 @@ CMS.registerEditorComponent({
 CMS.registerEditorComponent({
   label: "Infographic",
   id: "infographic",
+  collapsed: true,
   fromBlock: match => {
     if (!match) {
       return null

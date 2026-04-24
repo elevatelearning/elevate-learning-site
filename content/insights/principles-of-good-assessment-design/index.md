@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1667376749/site-articles/principles-of-good-assessment-design/Blog_Banner_5_kybfvi.png
-featured: true
 title: Principles of Good Assessment Design
-date: 2022-11-11
-author: Lara Hilton
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1667376749/site-articles/principles-of-good-assessment-design/Blog_Banner_5_kybfvi.png
+  date: 2022-11-11
+  author: Lara Hilton
+  featured: true
 ---
 
 ### "Nothing that we do to, or for, our students is more important than our assessment of their work and the feedback we give them on it. The results for our assessment influence our students for the rest of their lives and careers — fine if we get it right, but unthinkable if we get it wrong." - Race, Brown & Smith, 2005

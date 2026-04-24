@@ -12,7 +12,9 @@ const Articles = () => {
           title
         }
       }
-      allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
+      allMarkdownRemark(
+        sort: { frontmatter: { articleSettings: { date: DESC } } }
+      ) {
         edges {
           node {
             excerpt
@@ -25,11 +27,11 @@ const Articles = () => {
               }
             }
             frontmatter {
-              featured
               title
-              description
-              author
-              date(formatString: "DD MMMM YYYY")
+              articleSettings {
+                description
+                date(formatString: "DD MMMM YYYY")
+              }
             }
           }
         }
@@ -44,6 +46,7 @@ const Articles = () => {
   }
 
   const cards = articles.slice(1).map(({ node }) => {
+    const articleSettings = node.frontmatter.articleSettings || {}
     const title = node.frontmatter.title || node.fields.slug
 
     return (
@@ -61,11 +64,11 @@ const Articles = () => {
           </Card.Title>
           <Card.Text
             dangerouslySetInnerHTML={{
-              __html: node.frontmatter.description || node.excerpt
+              __html: articleSettings.description || node.excerpt
             }}
           />
           <Card.Footer>
-            <small>{node.frontmatter.date}</small>
+            <small>{articleSettings.date}</small>
           </Card.Footer>
         </Card.Body>
       </Card>
@@ -73,6 +76,7 @@ const Articles = () => {
   })
 
   const card = articles[0].node
+  const articleSettings = card.frontmatter.articleSettings || {}
   const title = card.frontmatter.title || card.fields.slug
 
   return (
@@ -97,11 +101,11 @@ const Articles = () => {
                   </Card.Title>
                   <Card.Text
                     dangerouslySetInnerHTML={{
-                      __html: card.frontmatter.description || card.excerpt
+                      __html: articleSettings.description || card.excerpt
                     }}
                   />
                   <Card.Footer>
-                    <small>{card.frontmatter.date}</small>
+                    <small>{articleSettings.date}</small>
                   </Card.Footer>
                 </Card.Body>
               </Col>

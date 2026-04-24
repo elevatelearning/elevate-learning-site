@@ -34,32 +34,37 @@ collections:
       depth: 100
       summary: "{{title}}"
     fields:
-      - label: "Featured Image"
-        name: "imageUrl"
-        widget: "image"
-      - label: "Featured Article"
-        name: "featured"
-        widget: "boolean"
-        default: false
       - label: "Title"
         name: "title"
         widget: "string"
-      - label: "Publish Date"
-        name: "date"
-        widget: "datetime"
-        dateFormat: "DD MMMM YYYY"
-        format: "YYYY-MM-DD"
-        timeFormat: false
-      - label: "Description"
-        name: "description"
-        widget: "text"
-        required: false
-      - label: "Author"
-        name: "author"
-        widget: "text"
       - label: "Body"
         name: "body"
         widget: "markdown"
+      - label: "Article Settings"
+        name: "articleSettings"
+        widget: "object"
+        collapsed: true
+        fields:
+          - label: "Featured Image"
+            name: "imageUrl"
+            widget: "image"
+          - label: "Publish Date"
+            name: "date"
+            widget: "datetime"
+            dateFormat: "DD MMMM YYYY"
+            format: "YYYY-MM-DD"
+            timeFormat: false
+          - label: "Description"
+            name: "description"
+            widget: "text"
+            required: false
+          - label: "Author"
+            name: "author"
+            widget: "text"
+          - label: "Featured Article"
+            name: "featured"
+            widget: "boolean"
+            default: false
     meta:
       path:
         widget: "string"

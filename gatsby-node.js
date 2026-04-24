@@ -14,7 +14,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
   const result = await graphql(`
     {
-      allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
+      allMarkdownRemark(
+        sort: { frontmatter: { articleSettings: { date: ASC } } }
+        limit: 1000
+      ) {
         nodes {
           id
           fields {
@@ -70,9 +73,9 @@ exports.onCreateNode = async ({
       value: `/insights${slug}`
     })
 
-    if (node.frontmatter.imageUrl != null) {
+    if (node.frontmatter.articleSettings?.imageUrl != null) {
       const imageUrlFileNode = await createRemoteFileNode({
-        url: node.frontmatter.imageUrl,
+        url: node.frontmatter.articleSettings.imageUrl,
         parentNodeId: node.id,
         createNode,
         createNodeId,
@@ -114,9 +117,13 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Frontmatter @dontInfer {
+      title: String
+      articleSettings: ArticleSettings
+    }
+
+    type ArticleSettings @dontInfer {
       imageUrl: String
       featured: Boolean
-      title: String
       description: String
       author: String
       date: Date @dateformat

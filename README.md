@@ -98,23 +98,23 @@ Typical frontmatter:
 
 ```md
 ---
-imageUrl: https://res.cloudinary.com/<cloud-name>/image/upload/...
-featured: true
 title: AI for Learning
-date: 2023-02-03
-description: Optional summary used for cards and SEO.
-author: Lara Hilton
-infographicPreviewUrl: https://res.cloudinary.com/<cloud-name>/image/upload/...
-infographicUrl: https://res.cloudinary.com/<cloud-name>/raw/upload/...
+articleSettings:
+  imageUrl: https://res.cloudinary.com/<cloud-name>/image/upload/...
+  date: 2023-02-03
+  description: Optional summary used for cards and SEO.
+  author: Lara Hilton
+  featured: true
 ---
 ```
 
 Notes:
 
-- `title`, `date`, and `author` are expected across the site and CMS workflow.
-- `description` is optional but recommended for article cards and metadata.
-- `imageUrl` and infographic assets are fetched as remote files during Gatsby builds.
-- `infographicPreviewUrl` and `infographicUrl` power the gated infographic download CTA on article pages.
+- `title` is top-level; the CMS stores article metadata in the collapsed `articleSettings` object.
+- `articleSettings.date` and `articleSettings.author` are expected across the site and CMS workflow.
+- `articleSettings.description` is optional but recommended for article cards and metadata.
+- `articleSettings.imageUrl` is fetched as a remote file during Gatsby builds.
+- Infographics are embedded in the Markdown body through the custom CMS `Infographic` block.
 
 ## CMS Workflow
 

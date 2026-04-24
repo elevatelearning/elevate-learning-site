@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656419391/site-articles/experiential-learning-in-the-flow-of-work/Blog_Banner_10_l7kkn0.png
-featured: false
 title: Experiential Learning in the Flow of Work
-date: 2021-02-19
-author: Kira Koopman
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656419391/site-articles/experiential-learning-in-the-flow-of-work/Blog_Banner_10_l7kkn0.png
+  date: 2021-02-19
+  author: Kira Koopman
+  featured: false
 ---
 
 Josh Bersin, renowned learning and development and global HR leader, coined the phrase [‘learning in the flow of work’](https://joshbersin.com/2018/06/a-new-paradigm-for-corporate-training-learning-in-the-flow-of-work/) as a consequence of trends in corporate learning that called for less time in the classroom (virtual or otherwise), and more time applying new tools, skills and knowledge to actual work, a concept not dissimilar to David Kolb’s 1984 research on experiential learning. Kolb, an American psychologist and educational theorist, expanded on the work of Dewey, Piaget and Lewin, who all spent much of their research efforts across the decades understanding human behaviour, cognitive development and learning.

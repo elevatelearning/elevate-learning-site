@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656594151/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/Blog_Banner_17_hrzppw.png
-featured: false
 title: How to Measure the Effectiveness of your Learning Experiences
-date: 2021-08-18
-author: Pasqua Lawrenson
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656594151/site-articles/how-to-measure-the-effectiveness-of-your-learning-experiences/Blog_Banner_17_hrzppw.png
+  date: 2021-08-18
+  author: Pasqua Lawrenson
+  featured: false
 ---
 
 Companies investing in online learning often don’t have the tools or practices to effectively evaluate their learning experiences. They tend to focus on shallow metrics such as course completion or number of questions answered correctly in activities. While students may complete a course, there’s no telling if there’s behaviour change, which should be the goal of the learning experience, and without the full picture of the impact of the learning experience, there’s no knowing its return on investment.

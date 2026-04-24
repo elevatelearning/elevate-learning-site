@@ -13,6 +13,7 @@ import { splitArticleHtmlByInfographics } from "../utils/infographic-embed"
 
 const ArticleTemplate = ({ data }) => {
   const article = data.article
+  const articleSettings = article.frontmatter.articleSettings || {}
   const url = new URL(
     article.fields.slug,
     data.site.siteMetadata.siteUrl
@@ -32,14 +33,12 @@ const ArticleTemplate = ({ data }) => {
               <div className="jumbotron text-center py-4 py-md-5 py-lg-7 my-1">
                 <header>
                   <h1 itemProp="headline">{article.frontmatter.title}</h1>
-                  <p>{article.frontmatter.date}</p>
+                  <p>{articleSettings.date}</p>
                 </header>
                 <ShareButtons
                   url={url}
                   title={article.frontmatter.title}
-                  description={
-                    article.frontmatter.description || article.excerpt
-                  }
+                  description={articleSettings.description || article.excerpt}
                 />
               </div>
             </Col>
@@ -69,7 +68,7 @@ const ArticleTemplate = ({ data }) => {
               </section>
               <hr />
               <footer>
-                <Bio selected={article.frontmatter.author} />
+                <Bio selected={articleSettings.author} />
               </footer>
             </Col>
           </Row>
@@ -82,12 +81,16 @@ const ArticleTemplate = ({ data }) => {
 
 export default ArticleTemplate
 
-export const Head = ({ data }) => (
-  <Seo
-    title={data.article.frontmatter.title}
-    description={data.article.frontmatter.description || data.article.excerpt}
-  />
-)
+export const Head = ({ data }) => {
+  const articleSettings = data.article.frontmatter.articleSettings || {}
+
+  return (
+    <Seo
+      title={data.article.frontmatter.title}
+      description={articleSettings.description || data.article.excerpt}
+    />
+  )
+}
 
 export const pageQuery = graphql`
   query ArticleBySlug($id: String!, $previousId: String, $nextId: String) {
@@ -103,9 +106,11 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "DD MMMM YYYY")
-        description
-        author
+        articleSettings {
+          date(formatString: "DD MMMM YYYY")
+          description
+          author
+        }
       }
       fields {
         slug
@@ -121,9 +126,11 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
-        date(formatString: "DD MMMM YYYY")
-        description
-        author
+        articleSettings {
+          date(formatString: "DD MMMM YYYY")
+          description
+          author
+        }
       }
       fields {
         slug
@@ -139,9 +146,11 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
-        date(formatString: "DD MMMM YYYY")
-        description
-        author
+        articleSettings {
+          date(formatString: "DD MMMM YYYY")
+          description
+          author
+        }
       }
       fields {
         slug

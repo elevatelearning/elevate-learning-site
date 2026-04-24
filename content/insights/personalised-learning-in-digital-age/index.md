@@ -1,9 +1,10 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1659013569/site-articles/personalised-learning-in-the-digital-age/Blog_Banner_24_hjpyyr.png
-featured: true
 title: Personalised Learning in the Digital Age
-date: 2022-10-17
-author: Lara Hilton
+articleSettings:
+  imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1659013569/site-articles/personalised-learning-in-the-digital-age/Blog_Banner_24_hjpyyr.png
+  date: 2022-10-17
+  author: Lara Hilton
+  featured: true
 ---
 
 Learning can take place anywhere, and at any time. The flexibility of learning experiences that we have become familiar with today, were distant dreams for instructors in the past. If you were to step into a learning environment in the past, what would you expect to see? Chances are you would find tables arranged in single-file rows and a teacher delivering the curriculum in the front of the room. Learners would have been required to simply absorb the information provided without being **active participants** in their learning.
