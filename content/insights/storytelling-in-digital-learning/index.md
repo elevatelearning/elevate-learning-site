@@ -5,10 +5,9 @@ title: Storytelling in Digital Learning
 date: 2023-04-20
 author: Lara Hilton
 ---
-
 Storytelling has been a [powerful tool for teaching and learning for centuries](https://www.hrpub.org/download/20200430/UJERA7-19591327.pdf), and with the rise of digital learning, it has become an even more valuable tool for educators and trainers. Storytelling can be used to engage learners, convey complex information, and build connections between learners and the course material. Before we even begin to explore the benefits of storytelling in online learning, let’s take a step back to consider the power of storytelling in our lives.
 
-<figure class="article-media article-media--left"><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681723876/site-articles/storytelling-in-digital-learning/Impact_of_Storytelling_i8ozwr.png" alt="Graphic depicting the impact of storytelling" title="Impact of Storytelling" /></figure>
+<figure class="article-media article-media--left"><img src="" alt="Graphic depicting the impact of storytelling" title="Impact of Storytelling" /></figure>
 
 # The Impact of Storytelling
 
@@ -38,11 +37,11 @@ Storytelling can also be used to build connections between learners and the mate
 
 There are many different ways that storytelling can be used in digital learning. Some examples include:
 
-- Creating interactive e-learning modules that use a story-driven approach to introduce new concepts and challenges.
-- Using virtual reality simulations to immerse learners in historical events or other real-world scenarios.
-- Developing video games that use a story-driven approach to teach technical concepts or problem-solving skills.
-- Creating animated videos that explain complex contecepts in an easy-to-understand way.
-- Using storytelling in gamification, create an engaging and memorable learning experience.
+* Creating interactive e-learning modules that use a story-driven approach to introduce new concepts and challenges.
+* Using virtual reality simulations to immerse learners in historical events or other real-world scenarios.
+* Developing video games that use a story-driven approach to teach technical concepts or problem-solving skills.
+* Creating animated videos that explain complex contecepts in an easy-to-understand way.
+* Using storytelling in gamification, create an engaging and memorable learning experience.
 
 One method of applying storytelling to your digital learning strategy is by centering your designs around the principles of the ‘**Hero’s Journey**’. The Hero’s Journey is a storytelling framework that has been used for centuries to create compelling narratives. First introduced by mythologist Joseph Campbell, the Hero’s Journey follows a basic pattern of narrative structure that can be found in many stories, from ancient myths to modern films.
 
@@ -64,13 +63,13 @@ Incorporating the Hero’s Journey into your learning strategy can create a powe
 
 In order to [effectively incorporate storytelling](https://files.eric.ed.gov/fulltext/EJ1125504.pdf) into your digital learning strategy, it’s important to keep a few tips in mind:
 
-- Know your audience: Understanding your learners' backgrounds, interests, and learning styles can help you create stories that are engaging and relevant to them.
-- Keep it simple: While storytelling can be a powerful tool, it's important not to overwhelm learners with too much information or too many characters. Keep the plot simple and easy to follow.
-- Use [multimedia](https://www.scirp.org/html/38412.html): Incorporating images, videos, and interactive elements can help create a more immersive and engaging storytelling experience.\*
-- Make it relevant: By using real-life examples and scenarios, learners can better understand how the material applies to their own lives and experiences.
-- Don't forget the [learning objectives](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13004): While storytelling can be entertaining, it's important to remember that the ultimate goal is to help learners master the material. Be sure that your stories align with your learning objectives and support the overall goals of the course.
+* Know your audience: Understanding your learners' backgrounds, interests, and learning styles can help you create stories that are engaging and relevant to them.
+* Keep it simple: While storytelling can be a powerful tool, it's important not to overwhelm learners with too much information or too many characters. Keep the plot simple and easy to follow.
+* Use [multimedia](https://www.scirp.org/html/38412.html): Incorporating images, videos, and interactive elements can help create a more immersive and engaging storytelling experience.*
+* Make it relevant: By using real-life examples and scenarios, learners can better understand how the material applies to their own lives and experiences.
+* Don't forget the [learning objectives](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13004): While storytelling can be entertaining, it's important to remember that the ultimate goal is to help learners master the material. Be sure that your stories align with your learning objectives and support the overall goals of the course.
 
-_\*If you would like to learn more about how to create impactful multimedia, then sign-up for our Learning Experience Design Essentials Course here. As a teaser, watch the video below which outlines a few helpful tips to implement to create impactful educational videos._
+*\*If you would like to learn more about how to create impactful multimedia, then sign-up for our Learning Experience Design Essentials Course here. As a teaser, watch the video below which outlines a few helpful tips to implement to create impactful educational videos.*
 
 <center><iframe width="650" height="405" src="https://www.youtube.com/embed/WAZH13MS6ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
@@ -80,9 +79,9 @@ In conclusion, storytelling is a powerful tool for teaching and learning in the 
 
 ### Resources
 
-- Alexander, B. (2019). “The Power of Storytelling in the Classroom”, _International Journal of Teaching and Learning in Higher Education_, 31(3), pp. 515-524. Available at: <https://files.eric.ed.gov/fulltext/EJ1125504.pdf>
-- Boris, V. (2017) _What makes storytelling so effective for learning?, Harvard Business Publishing_. Available at: <https://www.harvardbusiness.org/what-makes-storytelling-so-effective-for-learning/> (Accessed: April 6, 2023).
-- Breien, F.S. and Wasson, B. (2020) “Narrative categorization in digital game‐based learning: Engagement, Motivation & Learning,” _British Journal of Educational Technology_, 52(1), pp. 91–111. Available at: <https://doi.org/10.1111/bjet.13004>.
-- Choo, Y.B., Abdullah, T. and Nawi, A.M. (2020) “Digital Storytelling vs. oral storytelling: An analysis of the art of telling stories now and then,” _Universal Journal of Educational Research_, 8(5A), pp. 46–50. Available at: <https://doi.org/10.13189/ujer.2020.081907>.
-- Ivala, E. et al. (2013) “Enhancing student engagement with their studies: A Digital Storytelling Approach,” _Creative Education_, 04(10), pp. 82–89. Available at: <https://doi.org/10.4236/ce.2013.410a012>.
-- Moulton, L. (2020) _How to make storytelling effective: Cambridge English, World of Better Learning | Cambridge University Press_. Available at: <https://www.cambridge.org/elt/blog/2020/10/06/how-to-make-storytelling-effective-for-all-learners/> (Accessed: April 6, 2023).
+* Alexander, B. (2019). “The Power of Storytelling in the Classroom”, *International Journal of Teaching and Learning in Higher Education*, 31(3), pp. 515-524. Available at: <https://files.eric.ed.gov/fulltext/EJ1125504.pdf>
+* Boris, V. (2017) *What makes storytelling so effective for learning?, Harvard Business Publishing*. Available at: <https://www.harvardbusiness.org/what-makes-storytelling-so-effective-for-learning/> (Accessed: April 6, 2023).
+* Breien, F.S. and Wasson, B. (2020) “Narrative categorization in digital game‐based learning: Engagement, Motivation & Learning,” *British Journal of Educational Technology*, 52(1), pp. 91–111. Available at: <https://doi.org/10.1111/bjet.13004>.
+* Choo, Y.B., Abdullah, T. and Nawi, A.M. (2020) “Digital Storytelling vs. oral storytelling: An analysis of the art of telling stories now and then,” *Universal Journal of Educational Research*, 8(5A), pp. 46–50. Available at: <https://doi.org/10.13189/ujer.2020.081907>.
+* Ivala, E. et al. (2013) “Enhancing student engagement with their studies: A Digital Storytelling Approach,” *Creative Education*, 04(10), pp. 82–89. Available at: <https://doi.org/10.4236/ce.2013.410a012>.
+* Moulton, L. (2020) *How to make storytelling effective: Cambridge English, World of Better Learning | Cambridge University Press*. Available at: <https://www.cambridge.org/elt/blog/2020/10/06/how-to-make-storytelling-effective-for-all-learners/> (Accessed: April 6, 2023).
