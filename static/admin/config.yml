@@ -2,11 +2,12 @@ backend:
   name: git-gateway
   branch: main
   commit_messages:
-    create: "Create {{collection}} “{{slug}}”"
-    update: "Update {{collection}} “{{slug}}”"
-    delete: "Delete {{collection}} “{{slug}}”"
-    uploadMedia: "[skip ci] Upload “{{path}}”"
-    deleteMedia: "[skip ci] Delete “{{path}}”"
+    create: 'docs(content): create {{collection}} "{{slug}}"'
+    update: 'docs(content): update {{collection}} "{{slug}}"'
+    delete: 'docs(content): delete {{collection}} "{{slug}}"'
+    uploadMedia: 'chore(media): upload "{{path}}" [skip ci]'
+    deleteMedia: 'chore(media): delete "{{path}}" [skip ci]'
+    openAuthoring: "{{message}}"
 
 display_url: https://www.elevatelearning.org
 local_backend: true
